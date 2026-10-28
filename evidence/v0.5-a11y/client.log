@@ -1,0 +1,32 @@
+75 Explicit UI
+  23 Explicit UI / native interaction
+    29 Explicit UI / Responsive
+    29 Compiled flow. Native state. Glass-inspired pixels.
+    29 Count: 0
+    43 - 1
+    43 + 1
+    29 Click to count
+    79 Search items...
+    31 Visible items
+      32 Item 00000
+      32 Item 00001
+      32 Item 00002
+      32 Item 00003
+      32 Item 00004
+      32 Item 00005
+      32 Item 00006
+      32 Item 00007
+      32 Item 00008
+      32 Item 00009
+      32 Item 00010
+      32 Item 00011
+    29 Tab: focus   Enter: activate   Wheel: scroll   Esc: unfocus
+ACTION Count: 0 -> Count: 1
+EVENT object:children-changed:add 1
+EVENT object:children-changed:remove 13
+EVENT object:state-changed:focused 1
+EVENT object:text-caret-moved 2
+EVENT object:text-changed:delete 1
+EVENT object:text-changed:insert 2
+PASS discovery roles action main-thread commit focus UTF-8 text caret rendered-list invalid-edit events retained-row-defunct
+probe_exit=0

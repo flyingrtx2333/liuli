@@ -1,0 +1,5 @@
+-- Using Linux SDL2 runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libSDL2-2.0.so.0
+-- Using Linux Cairo runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libcairo.so.2
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /workspace/scratch/1d8b07060f6d/explicit-ui/build/cmake

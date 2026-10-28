@@ -1,0 +1,21 @@
+-- The CXX compiler identification is GNU 14.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Python3: /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3.12 (found suitable version "3.12.14", minimum required is "3.9") found components: Interpreter
+-- Using Linux SDL2 runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libSDL2-2.0.so.0
+-- Using Linux Pango runtime ABI fallback
+-- Using Linux Cairo runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libcairo.so.2
+-- Configuring done (0.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: /workspace/scratch/1d8b07060f6d/explicit-ui/build/task-list
+[ 16%] Generating generated/scripted.cpp, generated/model.h
+[ 16%] Built target eui_model
+[ 33%] Generating generated/scene.h
+[ 50%] Building CXX object CMakeFiles/eui-window.dir/native/window_host.cpp.o
+[ 66%] Building CXX object CMakeFiles/eui-window.dir/native/glass_renderer.cpp.o
+[ 83%] Building CXX object CMakeFiles/eui-window.dir/native/shaped_text.cpp.o
+[100%] Linking CXX executable eui-window
+[100%] Built target eui-window

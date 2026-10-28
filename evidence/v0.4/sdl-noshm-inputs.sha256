@@ -1,0 +1,4 @@
+f15b478253e1ff6dac62257ded225ff4e7d0c5230204ac3450f1144ee806f934  build/qa/deps/SDL2-2.32.4.tar.gz
+530de60c9c6dadd997ae7d74eca2a41b25e849373a5ad5dcdb619aa05713d6e0  build/qa/deps/libx11-dev_1.8.12-1_amd64.deb
+e6bd898976d762a6955ec465870e7f12a3b149f4c5b231b0687e293ed5726532  build/qa/deps/libxext-dev_1.3.4-1+b3_amd64.deb
+6a6764500eb8171d3cd6d793c09902974f8ea87bd20c68d9eac5f1eeaf3fc407  build/qa/deps/x11proto-dev_2024.1-1_all.deb

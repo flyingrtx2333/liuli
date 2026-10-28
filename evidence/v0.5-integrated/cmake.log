@@ -1,0 +1,53 @@
+-- The CXX compiler identification is GNU 14.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Python3: /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3.12 (found suitable version "3.12.14", minimum required is "3.9") found components: Interpreter
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Using Linux SDL2 runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libSDL2-2.0.so.0
+-- Using Linux Pango runtime ABI fallback
+-- Using Linux Cairo runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libcairo.so.2
+-- Configuring done (0.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /workspace/scratch/1d8b07060f6d/explicit-ui/build/a11y-integrated
+[  5%] Generating generated/scripted.cpp, generated/model.h
+[ 11%] Building CXX object CMakeFiles/eui-accessibility.dir/native/linux_accessibility.cpp.o
+[ 11%] Built target eui_model
+[ 16%] Building CXX object CMakeFiles/eui-atspi-probe.dir/tests/native/atspi_probe.cpp.o
+[ 22%] Linking CXX executable eui-atspi-probe
+[ 22%] Built target eui-atspi-probe
+[ 27%] Building CXX object CMakeFiles/eui-scripted.dir/generated/scripted.cpp.o
+[ 33%] Linking CXX static library libeui-accessibility.a
+[ 33%] Built target eui-accessibility
+[ 38%] Building CXX object CMakeFiles/eui-live.dir/native/live_host.cpp.o
+[ 44%] Linking CXX executable eui-scripted
+[ 44%] Built target eui-scripted
+[ 50%] Generating generated/scene.h
+[ 55%] Building CXX object CMakeFiles/eui-window.dir/native/window_host.cpp.o
+[ 61%] Linking CXX executable eui-live
+[ 61%] Built target eui-live
+[ 66%] Building CXX object CMakeFiles/eui-accessibility-session-test.dir/tests/native/accessibility_session_test.cpp.o
+[ 72%] Linking CXX executable eui-accessibility-session-test
+[ 72%] Built target eui-accessibility-session-test
+[ 77%] Building CXX object CMakeFiles/eui-accessibility-tree-test.dir/tests/native/accessibility_tree_test.cpp.o
+[ 83%] Linking CXX executable eui-accessibility-tree-test
+[ 83%] Built target eui-accessibility-tree-test
+[ 88%] Building CXX object CMakeFiles/eui-window.dir/native/glass_renderer.cpp.o
+[ 94%] Building CXX object CMakeFiles/eui-window.dir/native/shaped_text.cpp.o
+[100%] Linking CXX executable eui-window
+[100%] Built target eui-window
+Test project /workspace/scratch/1d8b07060f6d/explicit-ui/build/a11y-integrated
+    Start 1: scripted_smoke
+1/3 Test #1: scripted_smoke ...................   Passed    0.00 sec
+    Start 2: accessibility_tree
+2/3 Test #2: accessibility_tree ...............   Passed    0.01 sec
+    Start 3: window_synthetic
+3/3 Test #3: window_synthetic .................   Passed    0.73 sec
+
+100% tests passed out of 3
+
+Total Test time (real) =   0.74 sec

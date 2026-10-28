@@ -1,0 +1,5 @@
+Accessibility source: at_spi
+516 frame Explicit UI / native interaction
+	517 button Toggle enabled
+	518 button (disabled) Increment
+	519 text Count: 0

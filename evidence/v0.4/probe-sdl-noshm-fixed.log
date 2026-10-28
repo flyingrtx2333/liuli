@@ -1,0 +1,2271 @@
+SDL=2.32.4
+driver=x11 limits=0 window=1120x840 clip=0,0,1120,840
+presented
+event=1 dimensions=0x0
+event=8 dimensions=0x0
+event=10 dimensions=0x0
+event=12 dimensions=0x0
+event=15 dimensions=0x0
+event=11 dimensions=0x0
+event=4 dimensions=92x120
+event=6 dimensions=1180x812
+driver=x11 limits=0 window=1180x812 clip=0,0,1180,812
+presented
+event=5 dimensions=1180x812
+driver=x11 limits=0 window=1180x812 clip=0,0,1180,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1180x812 clip=0,0,1180,812
+presented
+event=10 dimensions=0x0
+event=11 dimensions=0x0
+event=10 dimensions=0x0
+event=6 dimensions=1168x812
+driver=x11 limits=0 window=1168x812 clip=0,0,1168,812
+presented
+event=5 dimensions=1168x812
+driver=x11 limits=0 window=1168x812 clip=0,0,1168,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1168x812 clip=0,0,1168,812
+presented
+event=5 dimensions=1144x812
+driver=x11 limits=0 window=1144x812 clip=0,0,1144,812
+presented
+event=6 dimensions=1144x812
+driver=x11 limits=0 window=1144x812 clip=0,0,1144,812
+presented
+event=5 dimensions=1144x812
+driver=x11 limits=0 window=1144x812 clip=0,0,1144,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1144x812 clip=0,0,1144,812
+presented
+event=6 dimensions=1140x812
+driver=x11 limits=0 window=1140x812 clip=0,0,1140,812
+presented
+event=5 dimensions=1140x812
+driver=x11 limits=0 window=1140x812 clip=0,0,1140,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1140x812 clip=0,0,1140,812
+presented
+event=6 dimensions=1136x812
+driver=x11 limits=0 window=1136x812 clip=0,0,1136,812
+presented
+event=5 dimensions=1136x812
+driver=x11 limits=0 window=1136x812 clip=0,0,1136,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1136x812 clip=0,0,1136,812
+presented
+event=5 dimensions=1129x812
+driver=x11 limits=0 window=1129x812 clip=0,0,1129,812
+presented
+event=6 dimensions=1129x812
+driver=x11 limits=0 window=1129x812 clip=0,0,1129,812
+presented
+event=5 dimensions=1129x812
+driver=x11 limits=0 window=1129x812 clip=0,0,1129,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1129x812 clip=0,0,1129,812
+presented
+event=5 dimensions=1117x812
+driver=x11 limits=0 window=1117x812 clip=0,0,1117,812
+presented
+event=6 dimensions=1117x812
+driver=x11 limits=0 window=1117x812 clip=0,0,1117,812
+presented
+event=5 dimensions=1117x812
+driver=x11 limits=0 window=1117x812 clip=0,0,1117,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1117x812 clip=0,0,1117,812
+presented
+event=5 dimensions=1109x812
+driver=x11 limits=0 window=1109x812 clip=0,0,1109,812
+presented
+event=6 dimensions=1109x812
+driver=x11 limits=0 window=1109x812 clip=0,0,1109,812
+presented
+event=5 dimensions=1109x812
+driver=x11 limits=0 window=1109x812 clip=0,0,1109,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1109x812 clip=0,0,1109,812
+presented
+event=5 dimensions=1093x812
+driver=x11 limits=0 window=1093x812 clip=0,0,1093,812
+presented
+event=6 dimensions=1093x812
+driver=x11 limits=0 window=1093x812 clip=0,0,1093,812
+presented
+event=5 dimensions=1093x812
+driver=x11 limits=0 window=1093x812 clip=0,0,1093,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1093x812 clip=0,0,1093,812
+presented
+event=5 dimensions=1085x812
+driver=x11 limits=0 window=1085x812 clip=0,0,1085,812
+presented
+event=6 dimensions=1085x812
+driver=x11 limits=0 window=1085x812 clip=0,0,1085,812
+presented
+event=5 dimensions=1085x812
+driver=x11 limits=0 window=1085x812 clip=0,0,1085,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1085x812 clip=0,0,1085,812
+presented
+event=6 dimensions=1081x812
+driver=x11 limits=0 window=1081x812 clip=0,0,1081,812
+presented
+event=5 dimensions=1081x812
+driver=x11 limits=0 window=1081x812 clip=0,0,1081,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1081x812 clip=0,0,1081,812
+presented
+event=6 dimensions=1077x812
+driver=x11 limits=0 window=1077x812 clip=0,0,1077,812
+presented
+event=5 dimensions=1077x812
+driver=x11 limits=0 window=1077x812 clip=0,0,1077,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1077x812 clip=0,0,1077,812
+presented
+event=6 dimensions=1073x812
+driver=x11 limits=0 window=1073x812 clip=0,0,1073,812
+presented
+event=5 dimensions=1073x812
+driver=x11 limits=0 window=1073x812 clip=0,0,1073,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1073x812 clip=0,0,1073,812
+presented
+event=5 dimensions=1061x812
+driver=x11 limits=0 window=1061x812 clip=0,0,1061,812
+presented
+event=6 dimensions=1061x812
+driver=x11 limits=0 window=1061x812 clip=0,0,1061,812
+presented
+event=5 dimensions=1061x812
+driver=x11 limits=0 window=1061x812 clip=0,0,1061,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1061x812 clip=0,0,1061,812
+presented
+event=6 dimensions=1057x812
+driver=x11 limits=0 window=1057x812 clip=0,0,1057,812
+presented
+event=5 dimensions=1057x812
+driver=x11 limits=0 window=1057x812 clip=0,0,1057,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1057x812 clip=0,0,1057,812
+presented
+event=5 dimensions=1045x812
+driver=x11 limits=0 window=1045x812 clip=0,0,1045,812
+presented
+event=6 dimensions=1045x812
+driver=x11 limits=0 window=1045x812 clip=0,0,1045,812
+presented
+event=5 dimensions=1045x812
+driver=x11 limits=0 window=1045x812 clip=0,0,1045,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1045x812 clip=0,0,1045,812
+presented
+event=6 dimensions=1042x812
+driver=x11 limits=0 window=1042x812 clip=0,0,1042,812
+presented
+event=5 dimensions=1042x812
+driver=x11 limits=0 window=1042x812 clip=0,0,1042,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1042x812 clip=0,0,1042,812
+presented
+event=5 dimensions=1034x812
+driver=x11 limits=0 window=1034x812 clip=0,0,1034,812
+presented
+event=6 dimensions=1034x812
+driver=x11 limits=0 window=1034x812 clip=0,0,1034,812
+presented
+event=5 dimensions=1034x812
+driver=x11 limits=0 window=1034x812 clip=0,0,1034,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1034x812 clip=0,0,1034,812
+presented
+event=5 dimensions=1026x812
+driver=x11 limits=0 window=1026x812 clip=0,0,1026,812
+presented
+event=6 dimensions=1026x812
+driver=x11 limits=0 window=1026x812 clip=0,0,1026,812
+presented
+event=5 dimensions=1026x812
+driver=x11 limits=0 window=1026x812 clip=0,0,1026,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1026x812 clip=0,0,1026,812
+presented
+event=5 dimensions=1018x812
+driver=x11 limits=0 window=1018x812 clip=0,0,1018,812
+presented
+event=6 dimensions=1018x812
+driver=x11 limits=0 window=1018x812 clip=0,0,1018,812
+presented
+event=5 dimensions=1018x812
+driver=x11 limits=0 window=1018x812 clip=0,0,1018,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1018x812 clip=0,0,1018,812
+presented
+event=6 dimensions=1014x812
+driver=x11 limits=0 window=1014x812 clip=0,0,1014,812
+presented
+event=5 dimensions=1014x812
+driver=x11 limits=0 window=1014x812 clip=0,0,1014,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1014x812 clip=0,0,1014,812
+presented
+event=6 dimensions=1010x812
+driver=x11 limits=0 window=1010x812 clip=0,0,1010,812
+presented
+event=5 dimensions=1010x812
+driver=x11 limits=0 window=1010x812 clip=0,0,1010,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1010x812 clip=0,0,1010,812
+presented
+event=5 dimensions=998x812
+driver=x11 limits=0 window=998x812 clip=0,0,998,812
+presented
+event=6 dimensions=998x812
+driver=x11 limits=0 window=998x812 clip=0,0,998,812
+presented
+event=5 dimensions=998x812
+driver=x11 limits=0 window=998x812 clip=0,0,998,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=998x812 clip=0,0,998,812
+presented
+event=6 dimensions=994x812
+driver=x11 limits=0 window=994x812 clip=0,0,994,812
+presented
+event=5 dimensions=994x812
+driver=x11 limits=0 window=994x812 clip=0,0,994,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=994x812 clip=0,0,994,812
+presented
+event=6 dimensions=990x812
+driver=x11 limits=0 window=990x812 clip=0,0,990,812
+presented
+event=5 dimensions=990x812
+driver=x11 limits=0 window=990x812 clip=0,0,990,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=990x812 clip=0,0,990,812
+presented
+event=6 dimensions=986x812
+driver=x11 limits=0 window=986x812 clip=0,0,986,812
+presented
+event=5 dimensions=986x812
+driver=x11 limits=0 window=986x812 clip=0,0,986,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=986x812 clip=0,0,986,812
+presented
+event=6 dimensions=982x812
+driver=x11 limits=0 window=982x812 clip=0,0,982,812
+presented
+event=5 dimensions=982x812
+driver=x11 limits=0 window=982x812 clip=0,0,982,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=982x812 clip=0,0,982,812
+presented
+event=6 dimensions=978x812
+driver=x11 limits=0 window=978x812 clip=0,0,978,812
+presented
+event=5 dimensions=978x812
+driver=x11 limits=0 window=978x812 clip=0,0,978,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=978x812 clip=0,0,978,812
+presented
+event=6 dimensions=974x812
+driver=x11 limits=0 window=974x812 clip=0,0,974,812
+presented
+event=5 dimensions=974x812
+driver=x11 limits=0 window=974x812 clip=0,0,974,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=974x812 clip=0,0,974,812
+presented
+event=6 dimensions=970x812
+driver=x11 limits=0 window=970x812 clip=0,0,970,812
+presented
+event=5 dimensions=970x812
+driver=x11 limits=0 window=970x812 clip=0,0,970,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=970x812 clip=0,0,970,812
+presented
+event=5 dimensions=962x812
+driver=x11 limits=0 window=962x812 clip=0,0,962,812
+presented
+event=6 dimensions=962x812
+driver=x11 limits=0 window=962x812 clip=0,0,962,812
+presented
+event=5 dimensions=962x812
+driver=x11 limits=0 window=962x812 clip=0,0,962,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=962x812 clip=0,0,962,812
+presented
+event=6 dimensions=958x812
+driver=x11 limits=0 window=958x812 clip=0,0,958,812
+presented
+event=5 dimensions=958x812
+driver=x11 limits=0 window=958x812 clip=0,0,958,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=958x812 clip=0,0,958,812
+presented
+event=5 dimensions=951x812
+driver=x11 limits=0 window=951x812 clip=0,0,951,812
+presented
+event=6 dimensions=951x812
+driver=x11 limits=0 window=951x812 clip=0,0,951,812
+presented
+event=5 dimensions=951x812
+driver=x11 limits=0 window=951x812 clip=0,0,951,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=951x812 clip=0,0,951,812
+presented
+event=6 dimensions=947x812
+driver=x11 limits=0 window=947x812 clip=0,0,947,812
+presented
+event=5 dimensions=947x812
+driver=x11 limits=0 window=947x812 clip=0,0,947,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=947x812 clip=0,0,947,812
+presented
+event=6 dimensions=943x812
+driver=x11 limits=0 window=943x812 clip=0,0,943,812
+presented
+event=5 dimensions=943x812
+driver=x11 limits=0 window=943x812 clip=0,0,943,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=943x812 clip=0,0,943,812
+presented
+event=6 dimensions=939x812
+driver=x11 limits=0 window=939x812 clip=0,0,939,812
+presented
+event=5 dimensions=939x812
+driver=x11 limits=0 window=939x812 clip=0,0,939,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=939x812 clip=0,0,939,812
+presented
+event=6 dimensions=935x812
+driver=x11 limits=0 window=935x812 clip=0,0,935,812
+presented
+event=5 dimensions=935x812
+driver=x11 limits=0 window=935x812 clip=0,0,935,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=935x812 clip=0,0,935,812
+presented
+event=5 dimensions=927x812
+driver=x11 limits=0 window=927x812 clip=0,0,927,812
+presented
+event=6 dimensions=927x812
+driver=x11 limits=0 window=927x812 clip=0,0,927,812
+presented
+event=5 dimensions=927x812
+driver=x11 limits=0 window=927x812 clip=0,0,927,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=927x812 clip=0,0,927,812
+presented
+event=5 dimensions=919x812
+driver=x11 limits=0 window=919x812 clip=0,0,919,812
+presented
+event=6 dimensions=919x812
+driver=x11 limits=0 window=919x812 clip=0,0,919,812
+presented
+event=5 dimensions=919x812
+driver=x11 limits=0 window=919x812 clip=0,0,919,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=919x812 clip=0,0,919,812
+presented
+event=5 dimensions=911x812
+driver=x11 limits=0 window=911x812 clip=0,0,911,812
+presented
+event=6 dimensions=911x812
+driver=x11 limits=0 window=911x812 clip=0,0,911,812
+presented
+event=5 dimensions=911x812
+driver=x11 limits=0 window=911x812 clip=0,0,911,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=911x812 clip=0,0,911,812
+presented
+event=5 dimensions=903x812
+driver=x11 limits=0 window=903x812 clip=0,0,903,812
+presented
+event=6 dimensions=903x812
+driver=x11 limits=0 window=903x812 clip=0,0,903,812
+presented
+event=5 dimensions=903x812
+driver=x11 limits=0 window=903x812 clip=0,0,903,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=903x812 clip=0,0,903,812
+presented
+event=5 dimensions=895x812
+driver=x11 limits=0 window=895x812 clip=0,0,895,812
+presented
+event=6 dimensions=895x812
+driver=x11 limits=0 window=895x812 clip=0,0,895,812
+presented
+event=5 dimensions=895x812
+driver=x11 limits=0 window=895x812 clip=0,0,895,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=895x812 clip=0,0,895,812
+presented
+event=6 dimensions=891x812
+driver=x11 limits=0 window=891x812 clip=0,0,891,812
+presented
+event=5 dimensions=891x812
+driver=x11 limits=0 window=891x812 clip=0,0,891,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=891x812 clip=0,0,891,812
+presented
+event=5 dimensions=883x812
+driver=x11 limits=0 window=883x812 clip=0,0,883,812
+presented
+event=6 dimensions=883x812
+driver=x11 limits=0 window=883x812 clip=0,0,883,812
+presented
+event=5 dimensions=883x812
+driver=x11 limits=0 window=883x812 clip=0,0,883,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=883x812 clip=0,0,883,812
+presented
+event=6 dimensions=879x812
+driver=x11 limits=0 window=879x812 clip=0,0,879,812
+presented
+event=5 dimensions=879x812
+driver=x11 limits=0 window=879x812 clip=0,0,879,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=879x812 clip=0,0,879,812
+presented
+event=6 dimensions=875x812
+driver=x11 limits=0 window=875x812 clip=0,0,875,812
+presented
+event=5 dimensions=875x812
+driver=x11 limits=0 window=875x812 clip=0,0,875,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=875x812 clip=0,0,875,812
+presented
+event=5 dimensions=867x812
+driver=x11 limits=0 window=867x812 clip=0,0,867,812
+presented
+event=6 dimensions=867x812
+driver=x11 limits=0 window=867x812 clip=0,0,867,812
+presented
+event=5 dimensions=867x812
+driver=x11 limits=0 window=867x812 clip=0,0,867,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=867x812 clip=0,0,867,812
+presented
+event=6 dimensions=863x812
+driver=x11 limits=0 window=863x812 clip=0,0,863,812
+presented
+event=5 dimensions=863x812
+driver=x11 limits=0 window=863x812 clip=0,0,863,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=863x812 clip=0,0,863,812
+presented
+event=6 dimensions=859x812
+driver=x11 limits=0 window=859x812 clip=0,0,859,812
+presented
+event=5 dimensions=859x812
+driver=x11 limits=0 window=859x812 clip=0,0,859,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=859x812 clip=0,0,859,812
+presented
+event=6 dimensions=855x812
+driver=x11 limits=0 window=855x812 clip=0,0,855,812
+presented
+event=5 dimensions=855x812
+driver=x11 limits=0 window=855x812 clip=0,0,855,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=855x812 clip=0,0,855,812
+presented
+event=5 dimensions=847x812
+driver=x11 limits=0 window=847x812 clip=0,0,847,812
+presented
+event=6 dimensions=847x812
+driver=x11 limits=0 window=847x812 clip=0,0,847,812
+presented
+event=5 dimensions=847x812
+driver=x11 limits=0 window=847x812 clip=0,0,847,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=847x812 clip=0,0,847,812
+presented
+event=6 dimensions=843x812
+driver=x11 limits=0 window=843x812 clip=0,0,843,812
+presented
+event=5 dimensions=843x812
+driver=x11 limits=0 window=843x812 clip=0,0,843,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=843x812 clip=0,0,843,812
+presented
+event=6 dimensions=839x812
+driver=x11 limits=0 window=839x812 clip=0,0,839,812
+presented
+event=5 dimensions=839x812
+driver=x11 limits=0 window=839x812 clip=0,0,839,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=839x812 clip=0,0,839,812
+presented
+event=6 dimensions=835x812
+driver=x11 limits=0 window=835x812 clip=0,0,835,812
+presented
+event=5 dimensions=835x812
+driver=x11 limits=0 window=835x812 clip=0,0,835,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=835x812 clip=0,0,835,812
+presented
+event=6 dimensions=831x812
+driver=x11 limits=0 window=831x812 clip=0,0,831,812
+presented
+event=5 dimensions=831x812
+driver=x11 limits=0 window=831x812 clip=0,0,831,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=831x812 clip=0,0,831,812
+presented
+event=6 dimensions=827x812
+driver=x11 limits=0 window=827x812 clip=0,0,827,812
+presented
+event=5 dimensions=827x812
+driver=x11 limits=0 window=827x812 clip=0,0,827,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=827x812 clip=0,0,827,812
+presented
+event=6 dimensions=823x812
+driver=x11 limits=0 window=823x812 clip=0,0,823,812
+presented
+event=5 dimensions=823x812
+driver=x11 limits=0 window=823x812 clip=0,0,823,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=823x812 clip=0,0,823,812
+presented
+event=6 dimensions=819x812
+driver=x11 limits=0 window=819x812 clip=0,0,819,812
+presented
+event=5 dimensions=819x812
+driver=x11 limits=0 window=819x812 clip=0,0,819,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=819x812 clip=0,0,819,812
+presented
+event=6 dimensions=815x812
+driver=x11 limits=0 window=815x812 clip=0,0,815,812
+presented
+event=5 dimensions=815x812
+driver=x11 limits=0 window=815x812 clip=0,0,815,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=815x812 clip=0,0,815,812
+presented
+event=5 dimensions=807x812
+driver=x11 limits=0 window=807x812 clip=0,0,807,812
+presented
+event=6 dimensions=807x812
+driver=x11 limits=0 window=807x812 clip=0,0,807,812
+presented
+event=5 dimensions=807x812
+driver=x11 limits=0 window=807x812 clip=0,0,807,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=807x812 clip=0,0,807,812
+presented
+event=6 dimensions=803x812
+driver=x11 limits=0 window=803x812 clip=0,0,803,812
+presented
+event=5 dimensions=803x812
+driver=x11 limits=0 window=803x812 clip=0,0,803,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=803x812 clip=0,0,803,812
+presented
+event=5 dimensions=795x812
+driver=x11 limits=0 window=795x812 clip=0,0,795,812
+presented
+event=6 dimensions=795x812
+driver=x11 limits=0 window=795x812 clip=0,0,795,812
+presented
+event=5 dimensions=795x812
+driver=x11 limits=0 window=795x812 clip=0,0,795,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=795x812 clip=0,0,795,812
+presented
+event=6 dimensions=791x812
+driver=x11 limits=0 window=791x812 clip=0,0,791,812
+presented
+event=5 dimensions=791x812
+driver=x11 limits=0 window=791x812 clip=0,0,791,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=791x812 clip=0,0,791,812
+presented
+event=6 dimensions=787x812
+driver=x11 limits=0 window=787x812 clip=0,0,787,812
+presented
+event=5 dimensions=787x812
+driver=x11 limits=0 window=787x812 clip=0,0,787,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=787x812 clip=0,0,787,812
+presented
+event=6 dimensions=783x812
+driver=x11 limits=0 window=783x812 clip=0,0,783,812
+presented
+event=5 dimensions=783x812
+driver=x11 limits=0 window=783x812 clip=0,0,783,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=783x812 clip=0,0,783,812
+presented
+event=6 dimensions=779x812
+driver=x11 limits=0 window=779x812 clip=0,0,779,812
+presented
+event=5 dimensions=779x812
+driver=x11 limits=0 window=779x812 clip=0,0,779,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=779x812 clip=0,0,779,812
+presented
+event=6 dimensions=775x812
+driver=x11 limits=0 window=775x812 clip=0,0,775,812
+presented
+event=5 dimensions=775x812
+driver=x11 limits=0 window=775x812 clip=0,0,775,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=775x812 clip=0,0,775,812
+presented
+event=6 dimensions=771x812
+driver=x11 limits=0 window=771x812 clip=0,0,771,812
+presented
+event=5 dimensions=771x812
+driver=x11 limits=0 window=771x812 clip=0,0,771,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=771x812 clip=0,0,771,812
+presented
+event=6 dimensions=767x812
+driver=x11 limits=0 window=767x812 clip=0,0,767,812
+presented
+event=5 dimensions=767x812
+driver=x11 limits=0 window=767x812 clip=0,0,767,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=767x812 clip=0,0,767,812
+presented
+event=6 dimensions=763x812
+driver=x11 limits=0 window=763x812 clip=0,0,763,812
+presented
+event=5 dimensions=763x812
+driver=x11 limits=0 window=763x812 clip=0,0,763,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=763x812 clip=0,0,763,812
+presented
+event=6 dimensions=759x812
+driver=x11 limits=0 window=759x812 clip=0,0,759,812
+presented
+event=5 dimensions=759x812
+driver=x11 limits=0 window=759x812 clip=0,0,759,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=759x812 clip=0,0,759,812
+presented
+event=6 dimensions=746x812
+driver=x11 limits=0 window=746x812 clip=0,0,746,812
+presented
+event=5 dimensions=746x812
+driver=x11 limits=0 window=746x812 clip=0,0,746,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=746x812 clip=0,0,746,812
+presented
+event=6 dimensions=735x812
+driver=x11 limits=0 window=735x812 clip=0,0,735,812
+presented
+event=5 dimensions=735x812
+driver=x11 limits=0 window=735x812 clip=0,0,735,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=735x812 clip=0,0,735,812
+presented
+event=6 dimensions=731x812
+driver=x11 limits=0 window=731x812 clip=0,0,731,812
+presented
+event=5 dimensions=731x812
+driver=x11 limits=0 window=731x812 clip=0,0,731,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=731x812 clip=0,0,731,812
+presented
+event=6 dimensions=727x812
+driver=x11 limits=0 window=727x812 clip=0,0,727,812
+presented
+event=5 dimensions=727x812
+driver=x11 limits=0 window=727x812 clip=0,0,727,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=727x812 clip=0,0,727,812
+presented
+event=6 dimensions=723x812
+driver=x11 limits=0 window=723x812 clip=0,0,723,812
+presented
+event=5 dimensions=723x812
+driver=x11 limits=0 window=723x812 clip=0,0,723,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=723x812 clip=0,0,723,812
+presented
+event=6 dimensions=719x812
+driver=x11 limits=0 window=719x812 clip=0,0,719,812
+presented
+event=5 dimensions=719x812
+driver=x11 limits=0 window=719x812 clip=0,0,719,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=719x812 clip=0,0,719,812
+presented
+event=6 dimensions=715x812
+driver=x11 limits=0 window=715x812 clip=0,0,715,812
+presented
+event=5 dimensions=715x812
+driver=x11 limits=0 window=715x812 clip=0,0,715,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=715x812 clip=0,0,715,812
+presented
+event=6 dimensions=711x812
+driver=x11 limits=0 window=711x812 clip=0,0,711,812
+presented
+event=5 dimensions=711x812
+driver=x11 limits=0 window=711x812 clip=0,0,711,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=711x812 clip=0,0,711,812
+presented
+event=6 dimensions=707x812
+driver=x11 limits=0 window=707x812 clip=0,0,707,812
+presented
+event=5 dimensions=707x812
+driver=x11 limits=0 window=707x812 clip=0,0,707,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=707x812 clip=0,0,707,812
+presented
+event=6 dimensions=703x812
+driver=x11 limits=0 window=703x812 clip=0,0,703,812
+presented
+event=5 dimensions=703x812
+driver=x11 limits=0 window=703x812 clip=0,0,703,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=703x812 clip=0,0,703,812
+presented
+event=6 dimensions=699x812
+driver=x11 limits=0 window=699x812 clip=0,0,699,812
+presented
+event=5 dimensions=699x812
+driver=x11 limits=0 window=699x812 clip=0,0,699,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=699x812 clip=0,0,699,812
+presented
+event=6 dimensions=695x812
+driver=x11 limits=0 window=695x812 clip=0,0,695,812
+presented
+event=5 dimensions=695x812
+driver=x11 limits=0 window=695x812 clip=0,0,695,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=695x812 clip=0,0,695,812
+presented
+event=6 dimensions=691x812
+driver=x11 limits=0 window=691x812 clip=0,0,691,812
+presented
+event=5 dimensions=691x812
+driver=x11 limits=0 window=691x812 clip=0,0,691,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=691x812 clip=0,0,691,812
+presented
+event=6 dimensions=687x812
+driver=x11 limits=0 window=687x812 clip=0,0,687,812
+presented
+event=5 dimensions=687x812
+driver=x11 limits=0 window=687x812 clip=0,0,687,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=687x812 clip=0,0,687,812
+presented
+event=6 dimensions=683x812
+driver=x11 limits=0 window=683x812 clip=0,0,683,812
+presented
+event=5 dimensions=683x812
+driver=x11 limits=0 window=683x812 clip=0,0,683,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=683x812 clip=0,0,683,812
+presented
+event=6 dimensions=679x812
+driver=x11 limits=0 window=679x812 clip=0,0,679,812
+presented
+event=5 dimensions=679x812
+driver=x11 limits=0 window=679x812 clip=0,0,679,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=679x812 clip=0,0,679,812
+presented
+event=6 dimensions=675x812
+driver=x11 limits=0 window=675x812 clip=0,0,675,812
+presented
+event=5 dimensions=675x812
+driver=x11 limits=0 window=675x812 clip=0,0,675,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=675x812 clip=0,0,675,812
+presented
+event=6 dimensions=671x812
+driver=x11 limits=0 window=671x812 clip=0,0,671,812
+presented
+event=5 dimensions=671x812
+driver=x11 limits=0 window=671x812 clip=0,0,671,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=671x812 clip=0,0,671,812
+presented
+event=6 dimensions=667x812
+driver=x11 limits=0 window=667x812 clip=0,0,667,812
+presented
+event=5 dimensions=667x812
+driver=x11 limits=0 window=667x812 clip=0,0,667,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=667x812 clip=0,0,667,812
+presented
+event=5 dimensions=659x812
+driver=x11 limits=0 window=659x812 clip=0,0,659,812
+presented
+event=6 dimensions=659x812
+driver=x11 limits=0 window=659x812 clip=0,0,659,812
+presented
+event=5 dimensions=659x812
+driver=x11 limits=0 window=659x812 clip=0,0,659,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=659x812 clip=0,0,659,812
+presented
+event=6 dimensions=655x812
+driver=x11 limits=0 window=655x812 clip=0,0,655,812
+presented
+event=5 dimensions=655x812
+driver=x11 limits=0 window=655x812 clip=0,0,655,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=655x812 clip=0,0,655,812
+presented
+event=6 dimensions=651x812
+driver=x11 limits=0 window=651x812 clip=0,0,651,812
+presented
+event=5 dimensions=651x812
+driver=x11 limits=0 window=651x812 clip=0,0,651,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=651x812 clip=0,0,651,812
+presented
+event=6 dimensions=647x812
+driver=x11 limits=0 window=647x812 clip=0,0,647,812
+presented
+event=5 dimensions=647x812
+driver=x11 limits=0 window=647x812 clip=0,0,647,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=647x812 clip=0,0,647,812
+presented
+event=6 dimensions=643x812
+driver=x11 limits=0 window=643x812 clip=0,0,643,812
+presented
+event=5 dimensions=643x812
+driver=x11 limits=0 window=643x812 clip=0,0,643,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=643x812 clip=0,0,643,812
+presented
+event=6 dimensions=639x812
+driver=x11 limits=0 window=639x812 clip=0,0,639,812
+presented
+event=5 dimensions=639x812
+driver=x11 limits=0 window=639x812 clip=0,0,639,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=639x812 clip=0,0,639,812
+presented
+event=6 dimensions=635x812
+driver=x11 limits=0 window=635x812 clip=0,0,635,812
+presented
+event=5 dimensions=635x812
+driver=x11 limits=0 window=635x812 clip=0,0,635,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=635x812 clip=0,0,635,812
+presented
+event=6 dimensions=631x812
+driver=x11 limits=0 window=631x812 clip=0,0,631,812
+presented
+event=5 dimensions=631x812
+driver=x11 limits=0 window=631x812 clip=0,0,631,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=631x812 clip=0,0,631,812
+presented
+event=6 dimensions=627x812
+driver=x11 limits=0 window=627x812 clip=0,0,627,812
+presented
+event=5 dimensions=627x812
+driver=x11 limits=0 window=627x812 clip=0,0,627,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=627x812 clip=0,0,627,812
+presented
+event=6 dimensions=623x812
+driver=x11 limits=0 window=623x812 clip=0,0,623,812
+presented
+event=5 dimensions=623x812
+driver=x11 limits=0 window=623x812 clip=0,0,623,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=623x812 clip=0,0,623,812
+presented
+event=6 dimensions=619x812
+driver=x11 limits=0 window=619x812 clip=0,0,619,812
+presented
+event=5 dimensions=619x812
+driver=x11 limits=0 window=619x812 clip=0,0,619,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=619x812 clip=0,0,619,812
+presented
+event=5 dimensions=611x812
+driver=x11 limits=0 window=611x812 clip=0,0,611,812
+presented
+event=6 dimensions=611x812
+driver=x11 limits=0 window=611x812 clip=0,0,611,812
+presented
+event=5 dimensions=611x812
+driver=x11 limits=0 window=611x812 clip=0,0,611,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=611x812 clip=0,0,611,812
+presented
+event=6 dimensions=607x812
+driver=x11 limits=0 window=607x812 clip=0,0,607,812
+presented
+event=5 dimensions=607x812
+driver=x11 limits=0 window=607x812 clip=0,0,607,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=607x812 clip=0,0,607,812
+presented
+event=6 dimensions=603x812
+driver=x11 limits=0 window=603x812 clip=0,0,603,812
+presented
+event=5 dimensions=603x812
+driver=x11 limits=0 window=603x812 clip=0,0,603,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=603x812 clip=0,0,603,812
+presented
+event=6 dimensions=599x812
+driver=x11 limits=0 window=599x812 clip=0,0,599,812
+presented
+event=5 dimensions=599x812
+driver=x11 limits=0 window=599x812 clip=0,0,599,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=599x812 clip=0,0,599,812
+presented
+event=6 dimensions=595x812
+driver=x11 limits=0 window=595x812 clip=0,0,595,812
+presented
+event=5 dimensions=595x812
+driver=x11 limits=0 window=595x812 clip=0,0,595,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=595x812 clip=0,0,595,812
+presented
+event=6 dimensions=591x812
+driver=x11 limits=0 window=591x812 clip=0,0,591,812
+presented
+event=5 dimensions=591x812
+driver=x11 limits=0 window=591x812 clip=0,0,591,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=591x812 clip=0,0,591,812
+presented
+event=6 dimensions=587x812
+driver=x11 limits=0 window=587x812 clip=0,0,587,812
+presented
+event=5 dimensions=587x812
+driver=x11 limits=0 window=587x812 clip=0,0,587,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=587x812 clip=0,0,587,812
+presented
+event=6 dimensions=583x812
+driver=x11 limits=0 window=583x812 clip=0,0,583,812
+presented
+event=5 dimensions=583x812
+driver=x11 limits=0 window=583x812 clip=0,0,583,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=583x812 clip=0,0,583,812
+presented
+event=6 dimensions=579x812
+driver=x11 limits=0 window=579x812 clip=0,0,579,812
+presented
+event=5 dimensions=579x812
+driver=x11 limits=0 window=579x812 clip=0,0,579,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=579x812 clip=0,0,579,812
+presented
+event=6 dimensions=575x812
+driver=x11 limits=0 window=575x812 clip=0,0,575,812
+presented
+event=5 dimensions=575x812
+driver=x11 limits=0 window=575x812 clip=0,0,575,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=575x812 clip=0,0,575,812
+presented
+event=6 dimensions=571x812
+driver=x11 limits=0 window=571x812 clip=0,0,571,812
+presented
+event=5 dimensions=571x812
+driver=x11 limits=0 window=571x812 clip=0,0,571,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=571x812 clip=0,0,571,812
+presented
+event=6 dimensions=567x812
+driver=x11 limits=0 window=567x812 clip=0,0,567,812
+presented
+event=5 dimensions=567x812
+driver=x11 limits=0 window=567x812 clip=0,0,567,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=567x812 clip=0,0,567,812
+presented
+event=6 dimensions=563x812
+driver=x11 limits=0 window=563x812 clip=0,0,563,812
+presented
+event=5 dimensions=563x812
+driver=x11 limits=0 window=563x812 clip=0,0,563,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=563x812 clip=0,0,563,812
+presented
+event=6 dimensions=559x812
+driver=x11 limits=0 window=559x812 clip=0,0,559,812
+presented
+event=5 dimensions=559x812
+driver=x11 limits=0 window=559x812 clip=0,0,559,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=559x812 clip=0,0,559,812
+presented
+event=6 dimensions=555x812
+driver=x11 limits=0 window=555x812 clip=0,0,555,812
+presented
+event=5 dimensions=555x812
+driver=x11 limits=0 window=555x812 clip=0,0,555,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=555x812 clip=0,0,555,812
+presented
+event=6 dimensions=551x812
+driver=x11 limits=0 window=551x812 clip=0,0,551,812
+presented
+event=5 dimensions=551x812
+driver=x11 limits=0 window=551x812 clip=0,0,551,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=551x812 clip=0,0,551,812
+presented
+event=6 dimensions=547x812
+driver=x11 limits=0 window=547x812 clip=0,0,547,812
+presented
+event=5 dimensions=547x812
+driver=x11 limits=0 window=547x812 clip=0,0,547,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=547x812 clip=0,0,547,812
+presented
+event=6 dimensions=543x812
+driver=x11 limits=0 window=543x812 clip=0,0,543,812
+presented
+event=5 dimensions=543x812
+driver=x11 limits=0 window=543x812 clip=0,0,543,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=543x812 clip=0,0,543,812
+presented
+event=6 dimensions=539x812
+driver=x11 limits=0 window=539x812 clip=0,0,539,812
+presented
+event=5 dimensions=539x812
+driver=x11 limits=0 window=539x812 clip=0,0,539,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=539x812 clip=0,0,539,812
+presented
+event=6 dimensions=535x812
+driver=x11 limits=0 window=535x812 clip=0,0,535,812
+presented
+event=5 dimensions=535x812
+driver=x11 limits=0 window=535x812 clip=0,0,535,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=535x812 clip=0,0,535,812
+presented
+event=6 dimensions=531x812
+driver=x11 limits=0 window=531x812 clip=0,0,531,812
+presented
+event=5 dimensions=531x812
+driver=x11 limits=0 window=531x812 clip=0,0,531,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=531x812 clip=0,0,531,812
+presented
+event=6 dimensions=527x812
+driver=x11 limits=0 window=527x812 clip=0,0,527,812
+presented
+event=5 dimensions=527x812
+driver=x11 limits=0 window=527x812 clip=0,0,527,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=527x812 clip=0,0,527,812
+presented
+event=6 dimensions=523x812
+driver=x11 limits=0 window=523x812 clip=0,0,523,812
+presented
+event=5 dimensions=523x812
+driver=x11 limits=0 window=523x812 clip=0,0,523,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=523x812 clip=0,0,523,812
+presented
+event=6 dimensions=519x812
+driver=x11 limits=0 window=519x812 clip=0,0,519,812
+presented
+event=5 dimensions=519x812
+driver=x11 limits=0 window=519x812 clip=0,0,519,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=519x812 clip=0,0,519,812
+presented
+event=9 dimensions=0x0
+event=6 dimensions=531x812
+driver=x11 limits=0 window=531x812 clip=0,0,531,812
+presented
+event=5 dimensions=531x812
+driver=x11 limits=0 window=531x812 clip=0,0,531,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=531x812 clip=0,0,531,812
+presented
+event=6 dimensions=535x812
+driver=x11 limits=0 window=535x812 clip=0,0,535,812
+presented
+event=5 dimensions=535x812
+driver=x11 limits=0 window=535x812 clip=0,0,535,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=535x812 clip=0,0,535,812
+presented
+event=6 dimensions=539x812
+driver=x11 limits=0 window=539x812 clip=0,0,539,812
+presented
+event=5 dimensions=539x812
+driver=x11 limits=0 window=539x812 clip=0,0,539,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=539x812 clip=0,0,539,812
+presented
+event=6 dimensions=543x812
+driver=x11 limits=0 window=543x812 clip=0,0,543,812
+presented
+event=5 dimensions=543x812
+driver=x11 limits=0 window=543x812 clip=0,0,543,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=543x812 clip=0,0,543,812
+presented
+event=5 dimensions=551x812
+driver=x11 limits=0 window=551x812 clip=0,0,551,812
+presented
+event=6 dimensions=551x812
+driver=x11 limits=0 window=551x812 clip=0,0,551,812
+presented
+event=5 dimensions=551x812
+driver=x11 limits=0 window=551x812 clip=0,0,551,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=551x812 clip=0,0,551,812
+presented
+event=6 dimensions=555x812
+driver=x11 limits=0 window=555x812 clip=0,0,555,812
+presented
+event=5 dimensions=555x812
+driver=x11 limits=0 window=555x812 clip=0,0,555,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=555x812 clip=0,0,555,812
+presented
+event=6 dimensions=559x812
+driver=x11 limits=0 window=559x812 clip=0,0,559,812
+presented
+event=5 dimensions=559x812
+driver=x11 limits=0 window=559x812 clip=0,0,559,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=559x812 clip=0,0,559,812
+presented
+event=6 dimensions=563x812
+driver=x11 limits=0 window=563x812 clip=0,0,563,812
+presented
+event=5 dimensions=563x812
+driver=x11 limits=0 window=563x812 clip=0,0,563,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=563x812 clip=0,0,563,812
+presented
+event=6 dimensions=567x812
+driver=x11 limits=0 window=567x812 clip=0,0,567,812
+presented
+event=5 dimensions=567x812
+driver=x11 limits=0 window=567x812 clip=0,0,567,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=567x812 clip=0,0,567,812
+presented
+event=6 dimensions=571x812
+driver=x11 limits=0 window=571x812 clip=0,0,571,812
+presented
+event=5 dimensions=571x812
+driver=x11 limits=0 window=571x812 clip=0,0,571,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=571x812 clip=0,0,571,812
+presented
+event=6 dimensions=575x812
+driver=x11 limits=0 window=575x812 clip=0,0,575,812
+presented
+event=5 dimensions=575x812
+driver=x11 limits=0 window=575x812 clip=0,0,575,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=575x812 clip=0,0,575,812
+presented
+event=6 dimensions=579x812
+driver=x11 limits=0 window=579x812 clip=0,0,579,812
+presented
+event=5 dimensions=579x812
+driver=x11 limits=0 window=579x812 clip=0,0,579,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=579x812 clip=0,0,579,812
+presented
+event=6 dimensions=583x812
+driver=x11 limits=0 window=583x812 clip=0,0,583,812
+presented
+event=5 dimensions=583x812
+driver=x11 limits=0 window=583x812 clip=0,0,583,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=583x812 clip=0,0,583,812
+presented
+event=6 dimensions=587x812
+driver=x11 limits=0 window=587x812 clip=0,0,587,812
+presented
+event=5 dimensions=587x812
+driver=x11 limits=0 window=587x812 clip=0,0,587,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=587x812 clip=0,0,587,812
+presented
+event=6 dimensions=591x812
+driver=x11 limits=0 window=591x812 clip=0,0,591,812
+presented
+event=5 dimensions=591x812
+driver=x11 limits=0 window=591x812 clip=0,0,591,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=591x812 clip=0,0,591,812
+presented
+event=6 dimensions=595x812
+driver=x11 limits=0 window=595x812 clip=0,0,595,812
+presented
+event=5 dimensions=595x812
+driver=x11 limits=0 window=595x812 clip=0,0,595,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=595x812 clip=0,0,595,812
+presented
+event=6 dimensions=599x812
+driver=x11 limits=0 window=599x812 clip=0,0,599,812
+presented
+event=5 dimensions=599x812
+driver=x11 limits=0 window=599x812 clip=0,0,599,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=599x812 clip=0,0,599,812
+presented
+event=6 dimensions=603x812
+driver=x11 limits=0 window=603x812 clip=0,0,603,812
+presented
+event=5 dimensions=603x812
+driver=x11 limits=0 window=603x812 clip=0,0,603,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=603x812 clip=0,0,603,812
+presented
+event=6 dimensions=607x812
+driver=x11 limits=0 window=607x812 clip=0,0,607,812
+presented
+event=5 dimensions=607x812
+driver=x11 limits=0 window=607x812 clip=0,0,607,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=607x812 clip=0,0,607,812
+presented
+event=6 dimensions=611x812
+driver=x11 limits=0 window=611x812 clip=0,0,611,812
+presented
+event=5 dimensions=611x812
+driver=x11 limits=0 window=611x812 clip=0,0,611,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=611x812 clip=0,0,611,812
+presented
+event=6 dimensions=614x812
+driver=x11 limits=0 window=614x812 clip=0,0,614,812
+presented
+event=5 dimensions=614x812
+driver=x11 limits=0 window=614x812 clip=0,0,614,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=614x812 clip=0,0,614,812
+presented
+event=6 dimensions=618x812
+driver=x11 limits=0 window=618x812 clip=0,0,618,812
+presented
+event=5 dimensions=618x812
+driver=x11 limits=0 window=618x812 clip=0,0,618,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=618x812 clip=0,0,618,812
+presented
+event=6 dimensions=622x812
+driver=x11 limits=0 window=622x812 clip=0,0,622,812
+presented
+event=5 dimensions=622x812
+driver=x11 limits=0 window=622x812 clip=0,0,622,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=622x812 clip=0,0,622,812
+presented
+event=6 dimensions=626x812
+driver=x11 limits=0 window=626x812 clip=0,0,626,812
+presented
+event=5 dimensions=626x812
+driver=x11 limits=0 window=626x812 clip=0,0,626,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=626x812 clip=0,0,626,812
+presented
+event=6 dimensions=630x812
+driver=x11 limits=0 window=630x812 clip=0,0,630,812
+presented
+event=5 dimensions=630x812
+driver=x11 limits=0 window=630x812 clip=0,0,630,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=630x812 clip=0,0,630,812
+presented
+event=6 dimensions=634x812
+driver=x11 limits=0 window=634x812 clip=0,0,634,812
+presented
+event=5 dimensions=634x812
+driver=x11 limits=0 window=634x812 clip=0,0,634,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=634x812 clip=0,0,634,812
+presented
+event=6 dimensions=638x812
+driver=x11 limits=0 window=638x812 clip=0,0,638,812
+presented
+event=5 dimensions=638x812
+driver=x11 limits=0 window=638x812 clip=0,0,638,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=638x812 clip=0,0,638,812
+presented
+event=6 dimensions=642x812
+driver=x11 limits=0 window=642x812 clip=0,0,642,812
+presented
+event=5 dimensions=642x812
+driver=x11 limits=0 window=642x812 clip=0,0,642,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=642x812 clip=0,0,642,812
+presented
+event=6 dimensions=646x812
+driver=x11 limits=0 window=646x812 clip=0,0,646,812
+presented
+event=5 dimensions=646x812
+driver=x11 limits=0 window=646x812 clip=0,0,646,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=646x812 clip=0,0,646,812
+presented
+event=5 dimensions=662x812
+driver=x11 limits=0 window=662x812 clip=0,0,662,812
+presented
+event=6 dimensions=662x812
+driver=x11 limits=0 window=662x812 clip=0,0,662,812
+presented
+event=5 dimensions=662x812
+driver=x11 limits=0 window=662x812 clip=0,0,662,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=662x812 clip=0,0,662,812
+presented
+event=6 dimensions=666x812
+driver=x11 limits=0 window=666x812 clip=0,0,666,812
+presented
+event=5 dimensions=666x812
+driver=x11 limits=0 window=666x812 clip=0,0,666,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=666x812 clip=0,0,666,812
+presented
+event=6 dimensions=670x812
+driver=x11 limits=0 window=670x812 clip=0,0,670,812
+presented
+event=5 dimensions=670x812
+driver=x11 limits=0 window=670x812 clip=0,0,670,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=670x812 clip=0,0,670,812
+presented
+event=5 dimensions=686x812
+driver=x11 limits=0 window=686x812 clip=0,0,686,812
+presented
+event=6 dimensions=686x812
+driver=x11 limits=0 window=686x812 clip=0,0,686,812
+presented
+event=5 dimensions=686x812
+driver=x11 limits=0 window=686x812 clip=0,0,686,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=686x812 clip=0,0,686,812
+presented
+event=6 dimensions=690x812
+driver=x11 limits=0 window=690x812 clip=0,0,690,812
+presented
+event=5 dimensions=690x812
+driver=x11 limits=0 window=690x812 clip=0,0,690,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=690x812 clip=0,0,690,812
+presented
+event=6 dimensions=694x812
+driver=x11 limits=0 window=694x812 clip=0,0,694,812
+presented
+event=5 dimensions=694x812
+driver=x11 limits=0 window=694x812 clip=0,0,694,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=694x812 clip=0,0,694,812
+presented
+event=6 dimensions=698x812
+driver=x11 limits=0 window=698x812 clip=0,0,698,812
+presented
+event=5 dimensions=698x812
+driver=x11 limits=0 window=698x812 clip=0,0,698,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=698x812 clip=0,0,698,812
+presented
+event=6 dimensions=702x812
+driver=x11 limits=0 window=702x812 clip=0,0,702,812
+presented
+event=5 dimensions=702x812
+driver=x11 limits=0 window=702x812 clip=0,0,702,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=702x812 clip=0,0,702,812
+presented
+event=6 dimensions=706x812
+driver=x11 limits=0 window=706x812 clip=0,0,706,812
+presented
+event=5 dimensions=706x812
+driver=x11 limits=0 window=706x812 clip=0,0,706,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=706x812 clip=0,0,706,812
+presented
+event=5 dimensions=714x812
+driver=x11 limits=0 window=714x812 clip=0,0,714,812
+presented
+event=6 dimensions=714x812
+driver=x11 limits=0 window=714x812 clip=0,0,714,812
+presented
+event=5 dimensions=714x812
+driver=x11 limits=0 window=714x812 clip=0,0,714,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=714x812 clip=0,0,714,812
+presented
+event=5 dimensions=722x812
+driver=x11 limits=0 window=722x812 clip=0,0,722,812
+presented
+event=6 dimensions=722x812
+driver=x11 limits=0 window=722x812 clip=0,0,722,812
+presented
+event=5 dimensions=722x812
+driver=x11 limits=0 window=722x812 clip=0,0,722,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=722x812 clip=0,0,722,812
+presented
+event=6 dimensions=726x812
+driver=x11 limits=0 window=726x812 clip=0,0,726,812
+presented
+event=5 dimensions=726x812
+driver=x11 limits=0 window=726x812 clip=0,0,726,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=726x812 clip=0,0,726,812
+presented
+event=6 dimensions=730x812
+driver=x11 limits=0 window=730x812 clip=0,0,730,812
+presented
+event=5 dimensions=730x812
+driver=x11 limits=0 window=730x812 clip=0,0,730,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=730x812 clip=0,0,730,812
+presented
+event=6 dimensions=734x812
+driver=x11 limits=0 window=734x812 clip=0,0,734,812
+presented
+event=5 dimensions=734x812
+driver=x11 limits=0 window=734x812 clip=0,0,734,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=734x812 clip=0,0,734,812
+presented
+event=6 dimensions=746x812
+driver=x11 limits=0 window=746x812 clip=0,0,746,812
+presented
+event=5 dimensions=746x812
+driver=x11 limits=0 window=746x812 clip=0,0,746,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=746x812 clip=0,0,746,812
+presented
+event=6 dimensions=758x812
+driver=x11 limits=0 window=758x812 clip=0,0,758,812
+presented
+event=5 dimensions=758x812
+driver=x11 limits=0 window=758x812 clip=0,0,758,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=758x812 clip=0,0,758,812
+presented
+event=6 dimensions=762x812
+driver=x11 limits=0 window=762x812 clip=0,0,762,812
+presented
+event=5 dimensions=762x812
+driver=x11 limits=0 window=762x812 clip=0,0,762,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=762x812 clip=0,0,762,812
+presented
+event=6 dimensions=766x812
+driver=x11 limits=0 window=766x812 clip=0,0,766,812
+presented
+event=5 dimensions=766x812
+driver=x11 limits=0 window=766x812 clip=0,0,766,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=766x812 clip=0,0,766,812
+presented
+event=6 dimensions=770x812
+driver=x11 limits=0 window=770x812 clip=0,0,770,812
+presented
+event=5 dimensions=770x812
+driver=x11 limits=0 window=770x812 clip=0,0,770,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=770x812 clip=0,0,770,812
+presented
+event=5 dimensions=778x812
+driver=x11 limits=0 window=778x812 clip=0,0,778,812
+presented
+event=6 dimensions=778x812
+driver=x11 limits=0 window=778x812 clip=0,0,778,812
+presented
+event=5 dimensions=778x812
+driver=x11 limits=0 window=778x812 clip=0,0,778,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=778x812 clip=0,0,778,812
+presented
+event=6 dimensions=782x812
+driver=x11 limits=0 window=782x812 clip=0,0,782,812
+presented
+event=5 dimensions=782x812
+driver=x11 limits=0 window=782x812 clip=0,0,782,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=782x812 clip=0,0,782,812
+presented
+event=6 dimensions=786x812
+driver=x11 limits=0 window=786x812 clip=0,0,786,812
+presented
+event=5 dimensions=786x812
+driver=x11 limits=0 window=786x812 clip=0,0,786,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=786x812 clip=0,0,786,812
+presented
+event=6 dimensions=790x812
+driver=x11 limits=0 window=790x812 clip=0,0,790,812
+presented
+event=5 dimensions=790x812
+driver=x11 limits=0 window=790x812 clip=0,0,790,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=790x812 clip=0,0,790,812
+presented
+event=6 dimensions=794x812
+driver=x11 limits=0 window=794x812 clip=0,0,794,812
+presented
+event=5 dimensions=794x812
+driver=x11 limits=0 window=794x812 clip=0,0,794,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=794x812 clip=0,0,794,812
+presented
+event=6 dimensions=798x812
+driver=x11 limits=0 window=798x812 clip=0,0,798,812
+presented
+event=5 dimensions=798x812
+driver=x11 limits=0 window=798x812 clip=0,0,798,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=798x812 clip=0,0,798,812
+presented
+event=6 dimensions=802x812
+driver=x11 limits=0 window=802x812 clip=0,0,802,812
+presented
+event=5 dimensions=802x812
+driver=x11 limits=0 window=802x812 clip=0,0,802,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=802x812 clip=0,0,802,812
+presented
+event=6 dimensions=806x812
+driver=x11 limits=0 window=806x812 clip=0,0,806,812
+presented
+event=5 dimensions=806x812
+driver=x11 limits=0 window=806x812 clip=0,0,806,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=806x812 clip=0,0,806,812
+presented
+event=6 dimensions=810x812
+driver=x11 limits=0 window=810x812 clip=0,0,810,812
+presented
+event=5 dimensions=810x812
+driver=x11 limits=0 window=810x812 clip=0,0,810,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=810x812 clip=0,0,810,812
+presented
+event=6 dimensions=814x812
+driver=x11 limits=0 window=814x812 clip=0,0,814,812
+presented
+event=5 dimensions=814x812
+driver=x11 limits=0 window=814x812 clip=0,0,814,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=814x812 clip=0,0,814,812
+presented
+event=6 dimensions=818x812
+driver=x11 limits=0 window=818x812 clip=0,0,818,812
+presented
+event=5 dimensions=818x812
+driver=x11 limits=0 window=818x812 clip=0,0,818,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=818x812 clip=0,0,818,812
+presented
+event=5 dimensions=826x812
+driver=x11 limits=0 window=826x812 clip=0,0,826,812
+presented
+event=6 dimensions=826x812
+driver=x11 limits=0 window=826x812 clip=0,0,826,812
+presented
+event=5 dimensions=826x812
+driver=x11 limits=0 window=826x812 clip=0,0,826,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=826x812 clip=0,0,826,812
+presented
+event=6 dimensions=830x812
+driver=x11 limits=0 window=830x812 clip=0,0,830,812
+presented
+event=5 dimensions=830x812
+driver=x11 limits=0 window=830x812 clip=0,0,830,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=830x812 clip=0,0,830,812
+presented
+event=6 dimensions=834x812
+driver=x11 limits=0 window=834x812 clip=0,0,834,812
+presented
+event=5 dimensions=834x812
+driver=x11 limits=0 window=834x812 clip=0,0,834,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=834x812 clip=0,0,834,812
+presented
+event=6 dimensions=838x812
+driver=x11 limits=0 window=838x812 clip=0,0,838,812
+presented
+event=5 dimensions=838x812
+driver=x11 limits=0 window=838x812 clip=0,0,838,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=838x812 clip=0,0,838,812
+presented
+event=6 dimensions=842x812
+driver=x11 limits=0 window=842x812 clip=0,0,842,812
+presented
+event=5 dimensions=842x812
+driver=x11 limits=0 window=842x812 clip=0,0,842,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=842x812 clip=0,0,842,812
+presented
+event=6 dimensions=846x812
+driver=x11 limits=0 window=846x812 clip=0,0,846,812
+presented
+event=5 dimensions=846x812
+driver=x11 limits=0 window=846x812 clip=0,0,846,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=846x812 clip=0,0,846,812
+presented
+event=6 dimensions=850x812
+driver=x11 limits=0 window=850x812 clip=0,0,850,812
+presented
+event=5 dimensions=850x812
+driver=x11 limits=0 window=850x812 clip=0,0,850,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=850x812 clip=0,0,850,812
+presented
+event=6 dimensions=854x812
+driver=x11 limits=0 window=854x812 clip=0,0,854,812
+presented
+event=5 dimensions=854x812
+driver=x11 limits=0 window=854x812 clip=0,0,854,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=854x812 clip=0,0,854,812
+presented
+event=6 dimensions=858x812
+driver=x11 limits=0 window=858x812 clip=0,0,858,812
+presented
+event=5 dimensions=858x812
+driver=x11 limits=0 window=858x812 clip=0,0,858,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=858x812 clip=0,0,858,812
+presented
+event=5 dimensions=866x812
+driver=x11 limits=0 window=866x812 clip=0,0,866,812
+presented
+event=6 dimensions=866x812
+driver=x11 limits=0 window=866x812 clip=0,0,866,812
+presented
+event=5 dimensions=866x812
+driver=x11 limits=0 window=866x812 clip=0,0,866,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=866x812 clip=0,0,866,812
+presented
+event=6 dimensions=870x812
+driver=x11 limits=0 window=870x812 clip=0,0,870,812
+presented
+event=5 dimensions=870x812
+driver=x11 limits=0 window=870x812 clip=0,0,870,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=870x812 clip=0,0,870,812
+presented
+event=6 dimensions=874x812
+driver=x11 limits=0 window=874x812 clip=0,0,874,812
+presented
+event=5 dimensions=874x812
+driver=x11 limits=0 window=874x812 clip=0,0,874,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=874x812 clip=0,0,874,812
+presented
+event=6 dimensions=878x812
+driver=x11 limits=0 window=878x812 clip=0,0,878,812
+presented
+event=5 dimensions=878x812
+driver=x11 limits=0 window=878x812 clip=0,0,878,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=878x812 clip=0,0,878,812
+presented
+event=6 dimensions=882x812
+driver=x11 limits=0 window=882x812 clip=0,0,882,812
+presented
+event=5 dimensions=882x812
+driver=x11 limits=0 window=882x812 clip=0,0,882,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=882x812 clip=0,0,882,812
+presented
+event=6 dimensions=886x812
+driver=x11 limits=0 window=886x812 clip=0,0,886,812
+presented
+event=5 dimensions=886x812
+driver=x11 limits=0 window=886x812 clip=0,0,886,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=886x812 clip=0,0,886,812
+presented
+event=6 dimensions=890x812
+driver=x11 limits=0 window=890x812 clip=0,0,890,812
+presented
+event=5 dimensions=890x812
+driver=x11 limits=0 window=890x812 clip=0,0,890,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=890x812 clip=0,0,890,812
+presented
+event=6 dimensions=894x812
+driver=x11 limits=0 window=894x812 clip=0,0,894,812
+presented
+event=5 dimensions=894x812
+driver=x11 limits=0 window=894x812 clip=0,0,894,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=894x812 clip=0,0,894,812
+presented
+event=6 dimensions=898x812
+driver=x11 limits=0 window=898x812 clip=0,0,898,812
+presented
+event=5 dimensions=898x812
+driver=x11 limits=0 window=898x812 clip=0,0,898,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=898x812 clip=0,0,898,812
+presented
+event=6 dimensions=902x812
+driver=x11 limits=0 window=902x812 clip=0,0,902,812
+presented
+event=5 dimensions=902x812
+driver=x11 limits=0 window=902x812 clip=0,0,902,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=902x812 clip=0,0,902,812
+presented
+event=6 dimensions=906x812
+driver=x11 limits=0 window=906x812 clip=0,0,906,812
+presented
+event=5 dimensions=906x812
+driver=x11 limits=0 window=906x812 clip=0,0,906,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=906x812 clip=0,0,906,812
+presented
+event=6 dimensions=910x812
+driver=x11 limits=0 window=910x812 clip=0,0,910,812
+presented
+event=5 dimensions=910x812
+driver=x11 limits=0 window=910x812 clip=0,0,910,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=910x812 clip=0,0,910,812
+presented
+event=6 dimensions=914x812
+driver=x11 limits=0 window=914x812 clip=0,0,914,812
+presented
+event=5 dimensions=914x812
+driver=x11 limits=0 window=914x812 clip=0,0,914,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=914x812 clip=0,0,914,812
+presented
+event=6 dimensions=918x812
+driver=x11 limits=0 window=918x812 clip=0,0,918,812
+presented
+event=5 dimensions=918x812
+driver=x11 limits=0 window=918x812 clip=0,0,918,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=918x812 clip=0,0,918,812
+presented
+event=6 dimensions=922x812
+driver=x11 limits=0 window=922x812 clip=0,0,922,812
+presented
+event=5 dimensions=922x812
+driver=x11 limits=0 window=922x812 clip=0,0,922,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=922x812 clip=0,0,922,812
+presented
+event=5 dimensions=930x812
+driver=x11 limits=0 window=930x812 clip=0,0,930,812
+presented
+event=6 dimensions=930x812
+driver=x11 limits=0 window=930x812 clip=0,0,930,812
+presented
+event=5 dimensions=930x812
+driver=x11 limits=0 window=930x812 clip=0,0,930,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=930x812 clip=0,0,930,812
+presented
+event=5 dimensions=945x812
+driver=x11 limits=0 window=945x812 clip=0,0,945,812
+presented
+event=6 dimensions=945x812
+driver=x11 limits=0 window=945x812 clip=0,0,945,812
+presented
+event=5 dimensions=945x812
+driver=x11 limits=0 window=945x812 clip=0,0,945,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=945x812 clip=0,0,945,812
+presented
+event=5 dimensions=961x812
+driver=x11 limits=0 window=961x812 clip=0,0,961,812
+presented
+event=6 dimensions=961x812
+driver=x11 limits=0 window=961x812 clip=0,0,961,812
+presented
+event=5 dimensions=961x812
+driver=x11 limits=0 window=961x812 clip=0,0,961,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=961x812 clip=0,0,961,812
+presented
+event=5 dimensions=973x812
+driver=x11 limits=0 window=973x812 clip=0,0,973,812
+presented
+event=6 dimensions=973x812
+driver=x11 limits=0 window=973x812 clip=0,0,973,812
+presented
+event=5 dimensions=973x812
+driver=x11 limits=0 window=973x812 clip=0,0,973,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=973x812 clip=0,0,973,812
+presented
+event=6 dimensions=977x812
+driver=x11 limits=0 window=977x812 clip=0,0,977,812
+presented
+event=5 dimensions=977x812
+driver=x11 limits=0 window=977x812 clip=0,0,977,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=977x812 clip=0,0,977,812
+presented
+event=5 dimensions=985x812
+driver=x11 limits=0 window=985x812 clip=0,0,985,812
+presented
+event=6 dimensions=985x812
+driver=x11 limits=0 window=985x812 clip=0,0,985,812
+presented
+event=5 dimensions=985x812
+driver=x11 limits=0 window=985x812 clip=0,0,985,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=985x812 clip=0,0,985,812
+presented
+event=6 dimensions=989x812
+driver=x11 limits=0 window=989x812 clip=0,0,989,812
+presented
+event=5 dimensions=989x812
+driver=x11 limits=0 window=989x812 clip=0,0,989,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=989x812 clip=0,0,989,812
+presented
+event=6 dimensions=993x812
+driver=x11 limits=0 window=993x812 clip=0,0,993,812
+presented
+event=5 dimensions=993x812
+driver=x11 limits=0 window=993x812 clip=0,0,993,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=993x812 clip=0,0,993,812
+presented
+event=5 dimensions=1001x812
+driver=x11 limits=0 window=1001x812 clip=0,0,1001,812
+presented
+event=6 dimensions=1001x812
+driver=x11 limits=0 window=1001x812 clip=0,0,1001,812
+presented
+event=5 dimensions=1001x812
+driver=x11 limits=0 window=1001x812 clip=0,0,1001,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1001x812 clip=0,0,1001,812
+presented
+event=5 dimensions=1009x812
+driver=x11 limits=0 window=1009x812 clip=0,0,1009,812
+presented
+event=6 dimensions=1009x812
+driver=x11 limits=0 window=1009x812 clip=0,0,1009,812
+presented
+event=5 dimensions=1009x812
+driver=x11 limits=0 window=1009x812 clip=0,0,1009,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1009x812 clip=0,0,1009,812
+presented
+event=5 dimensions=1016x812
+driver=x11 limits=0 window=1016x812 clip=0,0,1016,812
+presented
+event=6 dimensions=1016x812
+driver=x11 limits=0 window=1016x812 clip=0,0,1016,812
+presented
+event=5 dimensions=1016x812
+driver=x11 limits=0 window=1016x812 clip=0,0,1016,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1016x812 clip=0,0,1016,812
+presented
+event=5 dimensions=1024x812
+driver=x11 limits=0 window=1024x812 clip=0,0,1024,812
+presented
+event=6 dimensions=1024x812
+driver=x11 limits=0 window=1024x812 clip=0,0,1024,812
+presented
+event=5 dimensions=1024x812
+driver=x11 limits=0 window=1024x812 clip=0,0,1024,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1024x812 clip=0,0,1024,812
+presented
+event=5 dimensions=1032x812
+driver=x11 limits=0 window=1032x812 clip=0,0,1032,812
+presented
+event=6 dimensions=1032x812
+driver=x11 limits=0 window=1032x812 clip=0,0,1032,812
+presented
+event=5 dimensions=1032x812
+driver=x11 limits=0 window=1032x812 clip=0,0,1032,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1032x812 clip=0,0,1032,812
+presented
+event=5 dimensions=1040x812
+driver=x11 limits=0 window=1040x812 clip=0,0,1040,812
+presented
+event=6 dimensions=1040x812
+driver=x11 limits=0 window=1040x812 clip=0,0,1040,812
+presented
+event=5 dimensions=1040x812
+driver=x11 limits=0 window=1040x812 clip=0,0,1040,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1040x812 clip=0,0,1040,812
+presented
+event=5 dimensions=1048x812
+driver=x11 limits=0 window=1048x812 clip=0,0,1048,812
+presented
+event=6 dimensions=1048x812
+driver=x11 limits=0 window=1048x812 clip=0,0,1048,812
+presented
+event=5 dimensions=1048x812
+driver=x11 limits=0 window=1048x812 clip=0,0,1048,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1048x812 clip=0,0,1048,812
+presented
+event=5 dimensions=1056x812
+driver=x11 limits=0 window=1056x812 clip=0,0,1056,812
+presented
+event=6 dimensions=1056x812
+driver=x11 limits=0 window=1056x812 clip=0,0,1056,812
+presented
+event=5 dimensions=1056x812
+driver=x11 limits=0 window=1056x812 clip=0,0,1056,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1056x812 clip=0,0,1056,812
+presented
+event=5 dimensions=1064x812
+driver=x11 limits=0 window=1064x812 clip=0,0,1064,812
+presented
+event=6 dimensions=1064x812
+driver=x11 limits=0 window=1064x812 clip=0,0,1064,812
+presented
+event=5 dimensions=1064x812
+driver=x11 limits=0 window=1064x812 clip=0,0,1064,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1064x812 clip=0,0,1064,812
+presented
+event=6 dimensions=1068x812
+driver=x11 limits=0 window=1068x812 clip=0,0,1068,812
+presented
+event=5 dimensions=1068x812
+driver=x11 limits=0 window=1068x812 clip=0,0,1068,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1068x812 clip=0,0,1068,812
+presented
+event=5 dimensions=1076x812
+driver=x11 limits=0 window=1076x812 clip=0,0,1076,812
+presented
+event=6 dimensions=1076x812
+driver=x11 limits=0 window=1076x812 clip=0,0,1076,812
+presented
+event=5 dimensions=1076x812
+driver=x11 limits=0 window=1076x812 clip=0,0,1076,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1076x812 clip=0,0,1076,812
+presented
+event=5 dimensions=1095x812
+driver=x11 limits=0 window=1095x812 clip=0,0,1095,812
+presented
+event=6 dimensions=1095x812
+driver=x11 limits=0 window=1095x812 clip=0,0,1095,812
+presented
+event=5 dimensions=1095x812
+driver=x11 limits=0 window=1095x812 clip=0,0,1095,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1095x812 clip=0,0,1095,812
+presented
+event=6 dimensions=1099x812
+driver=x11 limits=0 window=1099x812 clip=0,0,1099,812
+presented
+event=5 dimensions=1099x812
+driver=x11 limits=0 window=1099x812 clip=0,0,1099,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1099x812 clip=0,0,1099,812
+presented
+event=6 dimensions=1103x812
+driver=x11 limits=0 window=1103x812 clip=0,0,1103,812
+presented
+event=5 dimensions=1103x812
+driver=x11 limits=0 window=1103x812 clip=0,0,1103,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1103x812 clip=0,0,1103,812
+presented
+event=6 dimensions=1107x812
+driver=x11 limits=0 window=1107x812 clip=0,0,1107,812
+presented
+event=5 dimensions=1107x812
+driver=x11 limits=0 window=1107x812 clip=0,0,1107,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1107x812 clip=0,0,1107,812
+presented
+event=6 dimensions=1111x812
+driver=x11 limits=0 window=1111x812 clip=0,0,1111,812
+presented
+event=5 dimensions=1111x812
+driver=x11 limits=0 window=1111x812 clip=0,0,1111,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1111x812 clip=0,0,1111,812
+presented
+event=6 dimensions=1115x812
+driver=x11 limits=0 window=1115x812 clip=0,0,1115,812
+presented
+event=5 dimensions=1115x812
+driver=x11 limits=0 window=1115x812 clip=0,0,1115,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1115x812 clip=0,0,1115,812
+presented
+event=6 dimensions=1119x812
+driver=x11 limits=0 window=1119x812 clip=0,0,1119,812
+presented
+event=5 dimensions=1119x812
+driver=x11 limits=0 window=1119x812 clip=0,0,1119,812
+presented
+event=3 dimensions=0x0
+driver=x11 limits=0 window=1119x812 clip=0,0,1119,812
+presented
+event=14 dimensions=0x0

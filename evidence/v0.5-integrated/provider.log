@@ -1,0 +1,10 @@
+state load rejected: open state: No such file or directory
+video_driver=x11
+framebuffer_acceleration=0
+{"label":"window-ready","evaluations":{"title":1,"filtered":1,"visible":1},"views":{"counter":"Count: 0","list":["Item 00000","Item 00001","Item 00002","Item 00003","Item 00004","Item 00005","Item 00006","Item 00007","Item 00008","Item 00009","Item 00010","Item 00011"]},"patches":2,"rows_materialized":12,"renders":1}
+accessibility request rejected: single-line text rejects control characters
+state_saved
+state load rejected: unsupported state version
+state_loaded
+state_saved
+{"label":"window-closed","evaluations":{"title":2,"filtered":14,"visible":4},"views":{"counter":"Count: 1","list":["Item 00000","Item 00001","Item 00002","Item 00003","Item 00004","Item 00005","Item 00006","Item 00007","Item 00008","Item 00009","Item 00010","Item 00011"]},"patches":6,"rows_materialized":25,"renders":138}

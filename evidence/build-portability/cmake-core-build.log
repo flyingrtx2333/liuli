@@ -1,0 +1,9 @@
+[ 16%] Generating generated/scripted.cpp, generated/model.h
+[ 33%] Generating generated/scripted.cpp, generated/model.h
+[ 33%] Built target eui_model
+[ 50%] Building CXX object CMakeFiles/eui-live.dir/native/live_host.cpp.o
+[ 66%] Building CXX object CMakeFiles/eui-scripted.dir/generated/scripted.cpp.o
+[ 83%] Linking CXX executable eui-scripted
+[ 83%] Built target eui-scripted
+[100%] Linking CXX executable eui-live
+[100%] Built target eui-live

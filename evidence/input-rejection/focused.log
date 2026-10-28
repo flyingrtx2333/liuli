@@ -1,0 +1,6 @@
+test_existing_history_survives_ui_model_action_and_restore_rejection (test_input_rejection.InputRejectionTests.test_existing_history_survives_ui_model_action_and_restore_rejection) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 5.985s
+
+OK

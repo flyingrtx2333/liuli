@@ -1,0 +1,4 @@
+DISPLAY=:0
+DBUS_SESSION_BUS_ADDRESS=unix:path=/dev/shm/codex-orbit-desktop/bus
+at-spi-bus-laun
+at-spi2-registr

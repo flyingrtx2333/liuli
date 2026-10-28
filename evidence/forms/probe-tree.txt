@@ -1,0 +1,8 @@
+Accessibility source: at_spi
+431 frame Explicit UI / Unsaved changes
+	432 text Explicit UI / Independent fields
+	433 entry (settable) Name, Value: 名🙂A
+	434 entry (focused, settable) Project, Value: 项目é
+	435 text 名🙂A / 项目é
+	436 button Reset both fields
+	437 text Tab switches fields · Ctrl+S saves · Ctrl+O loads

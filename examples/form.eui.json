@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "states": [
+    {
+      "id": "name",
+      "type": "text",
+      "initial": "Ada"
+    },
+    {
+      "id": "project",
+      "type": "text",
+      "initial": "Native UI"
+    }
+  ],
+  "derived": [
+    {
+      "id": "summary",
+      "type": "text",
+      "expr": {
+        "op": "concat",
+        "args": [
+          {
+            "op": "concat",
+            "args": [
+              {
+                "ref": "name"
+              },
+              {
+                "literal": " / ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "ref": "project"
+          }
+        ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "preview",
+      "source": "summary"
+    }
+  ],
+  "transactions": [],
+  "actions": [
+    {
+      "id": "reset",
+      "set": {
+        "name": {
+          "literal": "",
+          "type": "text"
+        },
+        "project": {
+          "literal": "",
+          "type": "text"
+        }
+      }
+    }
+  ],
+  "persist": [
+    "name",
+    "project"
+  ]
+}

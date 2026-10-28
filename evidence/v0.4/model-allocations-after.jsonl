@@ -1,0 +1,15 @@
+{"case":"changed_count","iterations":1000,"allocations":2000,"requested_bytes":192000,"elapsed_ms":0.064535}
+{"case":"unchanged_count","iterations":1000,"allocations":1000,"requested_bytes":144000,"elapsed_ms":0.02036}
+{"case":"changed_query","iterations":100,"allocations":2150,"requested_bytes":54190400,"elapsed_ms":15.9974}
+{"case":"changed_count","iterations":1000,"allocations":2000,"requested_bytes":192000,"elapsed_ms":0.052548}
+{"case":"unchanged_count","iterations":1000,"allocations":1000,"requested_bytes":144000,"elapsed_ms":0.02044}
+{"case":"changed_query","iterations":100,"allocations":2150,"requested_bytes":54190400,"elapsed_ms":16.7807}
+{"case":"changed_count","iterations":1000,"allocations":2000,"requested_bytes":192000,"elapsed_ms":0.076302}
+{"case":"unchanged_count","iterations":1000,"allocations":1000,"requested_bytes":144000,"elapsed_ms":0.028362}
+{"case":"changed_query","iterations":100,"allocations":2150,"requested_bytes":54190400,"elapsed_ms":20.0182}
+{"case":"changed_count","iterations":1000,"allocations":2000,"requested_bytes":192000,"elapsed_ms":0.051186}
+{"case":"unchanged_count","iterations":1000,"allocations":1000,"requested_bytes":144000,"elapsed_ms":0.02067}
+{"case":"changed_query","iterations":100,"allocations":2150,"requested_bytes":54190400,"elapsed_ms":19.8668}
+{"case":"changed_count","iterations":1000,"allocations":2000,"requested_bytes":192000,"elapsed_ms":0.049954}
+{"case":"unchanged_count","iterations":1000,"allocations":1000,"requested_bytes":144000,"elapsed_ms":0.02032}
+{"case":"changed_query","iterations":100,"allocations":2150,"requested_bytes":54190400,"elapsed_ms":18.5469}

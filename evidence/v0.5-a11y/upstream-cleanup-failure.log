@@ -1,0 +1,26 @@
+video_driver=x11
+framebuffer_acceleration=0
+{"label":"window-ready","evaluations":{"title":1,"filtered":1,"visible":1},"views":{"counter":"Count: 0","list":["Item 00000","Item 00001","Item 00002","Item 00003","Item 00004","Item 00005","Item 00006","Item 00007","Item 00008","Item 00009","Item 00010","Item 00011"]},"patches":2,"rows_materialized":12,"renders":1}
+accessibility request rejected: single-line text rejects control characters
+{"label":"window-closed","evaluations":{"title":2,"filtered":3,"visible":3},"views":{"counter":"Count: 1","list":[]},"patches":5,"rows_materialized":13,"renders":5}
+/workspace/scratch/1d8b07060f6d/explicit-ui-a11y/build/a11y/log-trace.so(+0x1173) [0x7f5558bf1173]
+/lib/x86_64-linux-gnu/libglib-2.0.so.0(g_logv+0x21b) [0x7f55586f726b]
+/lib/x86_64-linux-gnu/libglib-2.0.so.0(g_log+0x93) [0x7f55586f75c3]
+/lib/x86_64-linux-gnu/libglib-2.0.so.0(g_hash_table_foreach+0x53) [0x7f55586da683]
+/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0(+0xe276) [0x7f5558636276]
+/lib/x86_64-linux-gnu/libgobject-2.0.so.0(g_object_unref+0x2ee) [0x7f55588064fe]
+/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0(atk_bridge_adaptor_cleanup+0x256) [0x7f5558639116]
+build/a11y/eui-window(+0xc80ab) [0x55c8d0ab80ab]
+/lib/x86_64-linux-gnu/libstdc++.so.6(+0xe1224) [0x7f55584a3224]
+/lib/x86_64-linux-gnu/libc.so.6(+0x928bb) [0x7f55581418bb]
+/lib/x86_64-linux-gnu/libc.so.6(+0x110538) [0x7f55581bf538]
+
+(eui-window:243): GLib-GObject-CRITICAL **: 18:57:50.040: g_object_weak_unref: assertion 'G_IS_OBJECT (object)' failed
+provider_exit=133
+
+Confirmed NULL weak reference:
+{"label":"window-closed","evaluations":{"title":2,"filtered":3,"visible":3},"views":{"counter":"Count: 1","list":[]},"patches":5,"rows_materialized":13,"renders":5}
+WEAK_UNREF object=(nil) callback=0x7fa82f66d200 data=0x7fa820016290
+
+(eui-window:253): GLib-GObject-CRITICAL **: 18:59:53.420: g_object_weak_unref: assertion 'G_IS_OBJECT (object)' failed
+provider_exit=133

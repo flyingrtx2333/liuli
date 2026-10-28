@@ -1,0 +1,11 @@
+[  5%] Built target eui_model
+[ 15%] Built target eui-accessibility
+[ 25%] Built target eui-atspi-probe
+[ 35%] Built target eui-scripted
+[ 45%] Built target eui-live
+[ 50%] Building CXX object CMakeFiles/eui-window.dir/native/glass_renderer.cpp.o
+[ 60%] Built target eui-accessibility-runtime-check
+[ 70%] Built target eui-accessibility-session-test
+[ 80%] Built target eui-accessibility-tree-test
+[ 85%] Linking CXX executable eui-window
+[100%] Built target eui-window

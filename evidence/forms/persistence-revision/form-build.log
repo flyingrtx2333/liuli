@@ -1,0 +1,17 @@
+[  5%] Generating generated/scripted.cpp, generated/model.h
+[ 15%] Built target eui-accessibility
+[ 25%] Built target eui-atspi-probe
+[ 35%] Built target eui-accessibility-session-test
+[ 35%] Built target eui_model
+[ 45%] Built target eui-accessibility-tree-test
+[ 55%] Built target eui-accessibility-runtime-check
+[ 60%] Building CXX object CMakeFiles/eui-scripted.dir/generated/scripted.cpp.o
+[ 65%] Building CXX object CMakeFiles/eui-live.dir/native/live_host.cpp.o
+[ 70%] Linking CXX executable eui-scripted
+[ 70%] Built target eui-scripted
+[ 75%] Generating generated/scene.h
+[ 80%] Building CXX object CMakeFiles/eui-window.dir/native/window_host.cpp.o
+[ 85%] Linking CXX executable eui-live
+[ 85%] Built target eui-live
+[ 90%] Linking CXX executable eui-window
+[100%] Built target eui-window

@@ -1,0 +1,13 @@
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Using Linux SDL2 runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libSDL2-2.0.so.0
+-- Using Linux Pango runtime ABI fallback
+-- Using Linux Cairo runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libcairo.so.2
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /workspace/scratch/1d8b07060f6d/explicit-ui/build/task-list
+[ 16%] Built target eui_model
+[ 33%] Building CXX object CMakeFiles/eui-window.dir/native/window_host.cpp.o
+[ 50%] Linking CXX executable eui-window
+[100%] Built target eui-window

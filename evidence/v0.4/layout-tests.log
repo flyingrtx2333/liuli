@@ -1,0 +1,12 @@
+test_declared_position_text_and_actions_reach_generated_cpp (test_layout.LayoutTests.test_declared_position_text_and_actions_reach_generated_cpp) ... ok
+test_duplicate_json_keys_rejected (test_layout.LayoutTests.test_duplicate_json_keys_rejected) ... ok
+test_generated_layout_and_half_open_hit_test (test_layout.LayoutTests.test_generated_layout_and_half_open_hit_test) ... ok
+test_rejects_wrong_types_unknown_fields_and_bounds (test_layout.LayoutTests.test_rejects_wrong_types_unknown_fields_and_bounds) ... ok
+test_depth_bound_and_determinism (test_responsive_layout.ResponsiveLayoutTests.test_depth_bound_and_determinism) ... ok
+test_flow_resize_bounds_hit_testing_and_breakpoint (test_responsive_layout.ResponsiveLayoutTests.test_flow_resize_bounds_hit_testing_and_breakpoint) ... ok
+test_invalid_flow_constraints (test_responsive_layout.ResponsiveLayoutTests.test_invalid_flow_constraints) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 1.618s
+
+OK

@@ -1,0 +1,9 @@
+test_declarative_action_button_binding (test_actions.ActionTests.test_declarative_action_button_binding) ... ok
+test_native_actions_snapshot_rollback_and_bounds (test_actions.ActionTests.test_native_actions_snapshot_rollback_and_bounds) ... ok
+test_rejects_malformed_actions_and_types (test_actions.ActionTests.test_rejects_malformed_actions_and_types) ... ok
+test_scripted_operators_and_legacy_optional_field (test_actions.ActionTests.test_scripted_operators_and_legacy_optional_field) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 1.666s
+
+OK

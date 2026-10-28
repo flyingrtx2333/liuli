@@ -1,0 +1,100 @@
+--- build/memory-baseline/compiler-before.py	2026-10-27 17:53:12.136545748 +0800
++++ compiler.py	2026-10-27 17:53:43.532336991 +0800
+@@ -158,15 +158,27 @@
+                  'using Value = std::variant<int64_t, std::string, std::vector<std::string>>;',
+                  'struct Update { std::string id; Value value; };',
+                  'class Model final : public ViewModel {', 'struct Data {']
+-        # Explicit qualification avoids introducing generated identifiers into APIs.
+-        def qualify(code):
+-            return re.sub(r'\b(checked_add|concat|filter|window)\(', r'detail::\1(', code)
++        # Immutable shared non-scalars make candidate copies cheap while retaining
++        # strong rollback: no code mutates a value owned by committed Data.
++        types = {name: typ for name, typ in self.symbols.values()}
++        def access(name, prefix=''):
++            value = prefix + name
++            return value if types[name] == 'int' else '(*' + value + ')'
++        def storage(typ):
++            return TYPES[typ] if typ == 'int' else 'std::shared_ptr<const ' + TYPES[typ] + '>'
++        def own(code, typ):
++            return code if typ == 'int' else 'std::make_shared<const ' + TYPES[typ] + '>(' + code + ')'
++        def expression(code, prefix=''):
++            code = re.sub(r'\b(checked_add|concat|filter|window)\(', r'detail::\1(', code)
++            return re.sub(r'\bv\d+\b', lambda m: access(m.group(), prefix), code)
+         for name, typ, initial in self.states:
+-            lines += [TYPES[typ] + ' ' + name + ' = ' + initial + ';']
++            lines += [storage(typ) + ' ' + name + ' = ' + own(initial, typ) + ';']
+         for name, typ, code, deps in self.nodes:
+-            lines += [TYPES[typ] + ' ' + name + ' = ' + qualify(code) + ';', 'uint64_t e_' + name + ' = 1;']
++            # A direct immutable reference can share ownership, not duplicate data.
++            value = code if typ != 'int' and code in types else own(expression(code), typ)
++            lines += [storage(typ) + ' ' + name + ' = ' + value + ';', 'uint64_t e_' + name + ' = 1;']
+         lines += ['uint64_t patches = ' + str(len(self.views)) + ';',
+-                  'uint64_t rows = ' + (' + '.join('detail::row_count(' + n + ')' for _, n in self.views) or '0') + ';',
++                  'uint64_t rows = ' + (' + '.join('detail::row_count(' + access(n) + ')' for _, n in self.views) or '0') + ';',
+                   '};', 'std::unique_ptr<Data> data_ = std::make_unique<Data>();', 'public:',
+                   'bool apply(const std::vector<Update>& updates) {', 'auto candidate = std::make_unique<Data>(*data_);', '[[maybe_unused]] auto& d = *candidate;']
+         for name, _ in self.symbols.values():
+@@ -180,33 +192,44 @@
+             if typ == 'text':
+                 lines += ['require_utf8(*value);']
+             if typ == 'texts':
+-                lines += ['for (const auto& text : *value) require_utf8(text);']
+                 lines += ['if (value->size() > 100000) throw std::invalid_argument("texts size limit exceeded");']
+-            lines += ['d.' + name + ' = *value;', '}']
++                lines += ['for (const auto& text : *value) require_utf8(text);']
++            lines += ['if (' + access(name, 'd.') + ' != *value) d.' + name + ' = ' + own('*value', typ) + ';', '}']
+         lines += [('else ' if self.states else '') + 'throw std::invalid_argument("unknown state");', '}']
+         # Last assignment wins; compare final staged values, not intermediate writes.
+-        for name, _, _ in self.states:
+-            lines += ['d_' + name + ' = d.' + name + ' != data_->' + name + ';']
+-        for name, _, code, deps in self.nodes:
++        for name, typ, _ in self.states:
++            comparison = access(name, 'd.') + ' != ' + access(name, 'data_->')
++            if typ != 'int':
++                comparison = 'd.' + name + ' != data_->' + name + ' && (' + comparison + ')'
++            lines += ['d_' + name + ' = ' + comparison + ';']
++        lines += ['if (!(' + (' || '.join('d_' + n for n, _, _ in self.states) or 'false') + ')) return false;']
++        for name, typ, code, deps in self.nodes:
+             condition = ' || '.join('d_' + dep for dep in sorted(deps)) or 'false'
+-            code = re.sub(r'\bv\d+\b', lambda m: 'd.' + m.group(), qualify(code))
+-            lines += ['if (' + condition + ') { ++d.e_' + name + '; auto next = ' + code + '; if (next != d.' + name + ') { d.' + name + ' = std::move(next); d_' + name + ' = true; } }']
++            if typ != 'int' and code in types:
++                # Alias nodes propagate immutable ownership without deep copies.
++                value = 'd.' + code
++                comparison = 'next != d.' + name + ' && *next != ' + access(name, 'd.')
++            else:
++                value = expression(code, 'd.')
++                comparison = 'next != ' + access(name, 'd.')
++            assignment = 'std::move(next)' if typ == 'int' or code in types else own('std::move(next)', typ)
++            lines += ['if (' + condition + ') { ++d.e_' + name + '; auto next = ' + value + '; if (' + comparison + ') { d.' + name + ' = ' + assignment + '; d_' + name + ' = true; } }']
+         lines += ['bool changed = false;']
+         for _, name in self.views:
+-            lines += ['if (d_' + name + ') { changed = true; ++d.patches; d.rows += detail::row_count(d.' + name + '); }']
++            lines += ['if (d_' + name + ') { changed = true; ++d.patches; d.rows += detail::row_count(' + access(name, 'd.') + '); }']
+         lines += ['data_.swap(candidate); return changed;', '}']
+         types = {name: typ for name, typ in self.symbols.values()}
+         for typ, method, return_type in [('text', 'view_text', 'const std::string&'), ('texts', 'view_texts', 'const std::vector<std::string>&'), ('int', 'view_int', 'int64_t')]:
+             lines += [return_type + ' ' + method + '(const std::string& id) const' + (' override' if typ != 'int' else '') + ' {', '(void)id;']
+             for label, name in self.views:
+                 if types[name] == typ:
+-                    lines += ['if (id == ' + quoted(label) + ') return data_->' + name + ';']
++                    lines += ['if (id == ' + quoted(label) + ') return ' + access(name, 'data_->') + ';']
+             lines += ['throw std::invalid_argument("unknown view or wrong view type");', '}']
+         for typ, method, return_type in [('text', 'state_text', 'const std::string&'), ('int', 'state_int', 'int64_t')]:
+             lines += [return_type + ' ' + method + '(const std::string& id) const {', '(void)id;']
+             for state in self.doc['states']:
+                 if state['type'] == typ:
+-                    lines += ['if (id == ' + quoted(state['id']) + ') return data_->' + self.symbols[state['id']][0] + ';']
++                    lines += ['if (id == ' + quoted(state['id']) + ') return ' + access(self.symbols[state['id']][0], 'data_->') + ';']
+             lines += ['throw std::invalid_argument("unknown state or wrong state type");', '}']
+         lines += ['Stats stats() const override { return {data_->patches, data_->rows, ' + (' + '.join('data_->e_' + n for n, _, _, _ in self.nodes) or '0') + '}; }',
+                   'void snapshot(const std::string& label, uint64_t renders) const {',
+@@ -215,7 +238,7 @@
+             lines += [('std::cout << ",";' if i else '') + 'detail::emit(' + quoted(label) + '); std::cout << ":" << data_->e_' + name + ';']
+         lines += ['std::cout << "},\\\"views\\\":{";']
+         for i, (label, name) in enumerate(self.views):
+-            lines += [('std::cout << ",";' if i else '') + 'detail::emit(' + quoted(label) + '); std::cout << ":"; detail::emit(data_->' + name + ');']
++            lines += [('std::cout << ",";' if i else '') + 'detail::emit(' + quoted(label) + '); std::cout << ":"; detail::emit(' + access(name, 'data_->') + ');']
+         lines += ['std::cout << "},\\\"patches\\\":" << data_->patches << ",\\\"rows_materialized\\\":" << data_->rows << ",\\\"renders\\\":" << renders << "}\\n" << std::flush;', '}', '};', '}']
+         return '\n'.join(lines) + '\n'
+ 

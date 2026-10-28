@@ -1,0 +1,8 @@
+Official Debian binaries, staged locally; no global install.
+https://deb.debian.org/debian/pool/main/a/at-spi2-core/
+3b1f3c2f55e5f46e6eb38d3303e135f6e5976190da332bb4a7679fd1b57415f8  build/a11y-sdk/libatk-bridge2.0-0t64_2.62.1-1_amd64.deb
+39171e7a10f682c89a75063166cef295b82d606fed587a9dccf49f4373efed6f  build/a11y-sdk/libatk1.0-0t64_2.62.1-1_amd64.deb
+cb528d2a550b39d70c80f0410d5c5d0a9b17b0a32ec55708e1c6af8a3a9d275a  build/a11y-sdk/libatspi2.0-0t64_2.62.1-1_amd64.deb
+Matching upstream cache fix: c4ddb104fb25ba9b1f839cea28f280bb3a4146ba
+Later duplicate-weak-reference fix: 8db3f580bd024095ddd86981b07f975575992c5d
+License notices: build/a11y-runtime/usr/share/doc/{libatk-bridge2.0-0t64,libatk1.0-0t64,libatspi2.0-0t64}/copyright

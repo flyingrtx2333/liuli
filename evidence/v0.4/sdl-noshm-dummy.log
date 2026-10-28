@@ -1,0 +1,37 @@
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+video_driver=dummy
+framebuffer_acceleration=0
+{"label":"window-ready","evaluations":{"title":1,"filtered":1,"visible":1},"views":{"counter":"Count: 0","list":["Item 00000","Item 00001","Item 00002","Item 00003","Item 00004","Item 00005","Item 00006","Item 00007","Item 00008","Item 00009","Item 00010","Item 00011"]},"patches":2,"rows_materialized":12,"renders":1}
+input rejected: text exceeds byte limit
+input rejected: invalid UTF-8 text
+{"label":"synthetic-sdl-smoke","evaluations":{"title":5,"filtered":23,"visible":23},"views":{"counter":"Count: 4","list":["Item 00007"]},"patches":28,"rows_materialized":103,"renders":48}
+{"smoke":"passed","synthetic_events":true,"errors":2,"video_driver":"dummy"}

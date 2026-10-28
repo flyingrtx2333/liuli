@@ -1,0 +1,7 @@
+test_codec_and_atomic_storage (test_state_store.StateStoreTests.test_codec_and_atomic_storage) ... ok
+test_generated_schema_restoration_is_atomic (test_state_store.StateStoreTests.test_generated_schema_restoration_is_atomic) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 5.833s
+
+OK

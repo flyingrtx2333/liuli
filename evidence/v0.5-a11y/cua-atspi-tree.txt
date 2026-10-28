@@ -1,0 +1,9 @@
+Accessibility source: at_spi
+392 frame Explicit UI / native interaction
+	393 text Explicit UI / Responsive Compiled flow. Native state. Glass-inspired pixels. Count: 1
+	396 button - 1
+	397 button + 1
+	398 text Click to count
+	399 entry (focused, settable) Search items..., Value: 中文🙂
+	400 list Visible items
+	401 text Tab: focus   Enter: activate   Wheel: scroll   Esc: unfocus

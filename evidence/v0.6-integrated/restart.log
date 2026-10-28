@@ -1,0 +1,5 @@
+state_loaded
+video_driver=x11
+framebuffer_acceleration=0
+{"label":"window-ready","evaluations":{"summary":2},"views":{"preview":"文文🙂 / 跨端表单"},"patches":2,"rows_materialized":0,"renders":1}
+{"label":"window-closed","evaluations":{"summary":2},"views":{"preview":"文文🙂 / 跨端表单"},"patches":2,"rows_materialized":0,"renders":1}

@@ -1,0 +1,22 @@
+test_accessibility_field_routing (tests.test_forms_host.FormsHostTests.test_accessibility_field_routing) ... ok
+test_multifield_transactions_and_persistence (tests.test_forms_host.FormsHostTests.test_multifield_transactions_and_persistence) ... ok
+test_actions_and_restore_respect_editor_transaction (tests.test_host_transactions.HostTransactionTests.test_actions_and_restore_respect_editor_transaction) ... state load rejected: open state: No such file or directory
+state load rejected: single-line text rejects separators
+state_loaded
+state_saved
+state_load_stale
+state_cancelled
+state_saved
+state_saved
+state load rejected: truncated state header
+state save rejected: original file was not accepted
+state_saved
+state_loaded
+ok
+test_compile_time_initial_field_policy (tests.test_initial_input.InitialInputTests.test_compile_time_initial_field_policy) ... ok
+test_host_rejects_invalid_initial_text_even_with_cached_scene (tests.test_initial_input.InitialInputTests.test_host_rejects_invalid_initial_text_even_with_cached_scene) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 21.727s
+
+OK

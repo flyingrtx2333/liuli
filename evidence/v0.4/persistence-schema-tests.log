@@ -1,0 +1,8 @@
+test_rejects_invalid_persistence_declarations (test_persistence_schema.PersistenceSchemaTests.test_rejects_invalid_persistence_declarations) ... ok
+test_task_arrays_schema_and_atomic_restore (test_persistence_schema.PersistenceSchemaTests.test_task_arrays_schema_and_atomic_restore) ... ok
+test_unconfigured_persistence_is_empty_and_core_still_compiles (test_persistence_schema.PersistenceSchemaTests.test_unconfigured_persistence_is_empty_and_core_still_compiles) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 1.971s
+
+OK

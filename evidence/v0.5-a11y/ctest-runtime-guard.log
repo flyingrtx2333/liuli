@@ -1,0 +1,11 @@
+Test project /workspace/scratch/1d8b07060f6d/explicit-ui-a11y/build/a11y
+    Start 1: scripted_smoke
+1/3 Test #1: scripted_smoke ...................   Passed    0.00 sec
+    Start 2: accessibility_tree
+2/3 Test #2: accessibility_tree ...............   Passed    0.00 sec
+    Start 3: window_synthetic
+3/3 Test #3: window_synthetic .................   Passed    0.69 sec
+
+100% tests passed out of 3
+
+Total Test time (real) =   0.70 sec

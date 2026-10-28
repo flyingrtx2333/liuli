@@ -1,0 +1,23 @@
+[
+  {
+    "frame": 0,
+    "changed_pixels": 5,
+    "total_pixels": 940800,
+    "max_channel_delta_8bit": 1,
+    "mean_absolute_channel_delta_8bit": 1.7715419501133788e-06
+  },
+  {
+    "frame": 1,
+    "changed_pixels": 5,
+    "total_pixels": 940800,
+    "max_channel_delta_8bit": 1,
+    "mean_absolute_channel_delta_8bit": 1.7715419501133788e-06
+  },
+  {
+    "frame": 2,
+    "changed_pixels": 5,
+    "total_pixels": 940800,
+    "max_channel_delta_8bit": 1,
+    "mean_absolute_channel_delta_8bit": 1.7715419501133788e-06
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "binary": "live-host",
+  "mode": "console state only",
+  "samples": 20,
+  "idle_observation_seconds": 2.0003581090004445,
+  "clock_ticks_per_second": 100,
+  "idle_cpu_ticks_delta": 0,
+  "idle_voluntary_switches_delta": 0,
+  "idle_nonvoluntary_switches_delta": 0,
+  "initial_rss_kib": 4324,
+  "final_rss_kib": 4912,
+  "peak_rss_kib": 4996,
+  "command_response_ms_median": 0.1608275,
+  "command_response_ms_max": 0.305811,
+  "command_response_ms_samples": [
+    0.305811,
+    0.245412,
+    0.146916,
+    0.181799,
+    0.203265,
+    0.228948,
+    0.143963,
+    0.21028,
+    0.161859,
+    0.149411,
+    0.132436,
+    0.136281,
+    0.180617,
+    0.167277,
+    0.211322,
+    0.137813,
+    0.159796,
+    0.138824,
+    0.135239,
+    0.135901
+  ],
+  "initial_patches": 2,
+  "final_patches": 22,
+  "renderer_stats": {
+    "cache_builds": 0,
+    "render_frames": 0
+  },
+  "quit_response": {
+    "status": "bye"
+  },
+  "notes": [
+    "One Linux cloud process observation, not a cross-framework comparison.",
+    "CPU ticks have finite resolution; zero delta does not prove zero energy.",
+    "RSS includes this process resident mappings; it is not total system or GPU memory.",
+    "Timing includes stdin/stdout protocol, state work, JSON, and PNG export if enabled.",
+    "This is not input-to-display latency, FPS, battery life, or desktop-window testing."
+  ]
+}

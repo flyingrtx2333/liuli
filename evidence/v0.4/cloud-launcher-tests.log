@@ -1,0 +1,4 @@
+shell syntax: PASS
+DISPLAY is unset; launch from the actual cloud X11 desktop terminal.
+missing DISPLAY rejected: PASS
+explicit x11 / scoped path / argument forwarding: PASS

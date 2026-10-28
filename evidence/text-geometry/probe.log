@@ -1,0 +1,40 @@
+75 Explicit UI
+  23 Explicit UI / native interaction
+    29 Explicit UI / Responsive
+    29 Compiled flow. Native state. Glass-inspired pixels.
+    29 Count: 1
+    43 - 1
+    43 + 1
+    29 Click to count
+    79 Search items...
+    31 Visible items
+    29 Tab: focus   Enter: activate   Wheel: scroll   Esc: unfocus
+ACTION Count: 1 -> Count: 2
+CLIENT_ORIGIN 219 164
+CHAR 0 RECT 269 506 16 24 HIT 0
+CHAR 1 RECT 285 506 16 24 HIT 1
+CHAR 2 RECT 301 509 20 20 HIT 2
+CHAR 0 RECT 269 506 9 24 HIT 0
+CHAR 3 RECT 282 509 20 20 HIT 3
+CHAR 0 RECT 284 506 10 24 HIT 0
+CHAR 1 RECT 275 506 9 24 HIT 1
+CHAR 2 RECT 269 506 6 24 HIT 2
+CHAR 0 RECT 269 506 9 24 HIT 0
+CHAR 1 RECT 278 506 10 24 HIT 1
+CHAR 2 RECT 288 506 8 24 HIT 2
+CHAR 3 RECT 296 506 4 24 HIT 3
+CHAR 4 RECT 315 506 10 24 HIT 4
+CHAR 5 RECT 306 506 9 24 HIT 5
+CHAR 6 RECT 300 506 6 24 HIT 6
+CHAR 7 RECT 325 506 4 24 HIT 7
+CHAR 8 RECT 329 506 8 24 HIT 8
+CHAR 9 RECT 337 506 8 24 HIT 9
+CHAR 10 RECT 345 506 8 24 HIT 10
+GEOMETRY_PASS Unicode offsets Pango clusters RTL scroll focus word char line paragraph screen/window coordinates
+EVENT object:children-changed:add 1
+EVENT object:children-changed:remove 1
+EVENT object:state-changed:focused 5
+EVENT object:text-caret-moved 7
+EVENT object:text-changed:delete 7
+EVENT object:text-changed:insert 7
+PASS discovery roles action main-thread commit focus UTF-8 text caret rendered-list invalid-edit events retained-row-defunct

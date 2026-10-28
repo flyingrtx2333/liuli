@@ -1,0 +1,6 @@
+{"label":"initial","evaluations":{"title":1,"filtered":1,"visible":1},"views":{"counter":"Count: 0","list":["Item 00000","Item 00001","Item 00002","Item 00003","Item 00004","Item 00005","Item 00006","Item 00007","Item 00008","Item 00009","Item 00010","Item 00011"]},"patches":2,"rows_materialized":12,"renders":1}
+{"label":"set-int","evaluations":{"title":2,"filtered":1,"visible":1},"views":{"counter":"Count: 7","list":["Item 00000","Item 00001","Item 00002","Item 00003","Item 00004","Item 00005","Item 00006","Item 00007","Item 00008","Item 00009","Item 00010","Item 00011"]},"patches":3,"rows_materialized":12,"renders":2}
+{"label":"set-int","evaluations":{"title":2,"filtered":1,"visible":1},"views":{"counter":"Count: 7","list":["Item 00000","Item 00001","Item 00002","Item 00003","Item 00004","Item 00005","Item 00006","Item 00007","Item 00008","Item 00009","Item 00010","Item 00011"]},"patches":3,"rows_materialized":12,"renders":2}
+{"label":"set-text","evaluations":{"title":2,"filtered":2,"visible":2},"views":{"counter":"Count: 7","list":["Item 00007"]},"patches":4,"rows_materialized":13,"renders":3}
+{"label":"snapshot","evaluations":{"title":2,"filtered":2,"visible":2},"views":{"counter":"Count: 7","list":["Item 00007"]},"patches":4,"rows_materialized":13,"renders":3}
+{"status":"bye"}

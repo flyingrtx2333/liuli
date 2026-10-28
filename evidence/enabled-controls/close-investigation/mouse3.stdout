@@ -1,0 +1,4 @@
+video_driver=x11
+framebuffer_acceleration=0
+{"label":"window-ready","evaluations":{"label":1},"views":{"enabled":false,"counter":"Count: 0"},"patches":2,"rows_materialized":0,"renders":1}
+{"label":"window-closed","evaluations":{"label":2},"views":{"enabled":false,"counter":"Count: 1"},"patches":5,"rows_materialized":0,"renders":8}

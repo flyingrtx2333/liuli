@@ -1,0 +1,7 @@
+state load rejected: unsupported state version
+video_driver=x11
+framebuffer_acceleration=0
+{"label":"window-ready","evaluations":{"visible_tasks":1},"views":{"tasks":["Build a native application","Verify saved data after restart"],"draft":"","selected":0},"patches":3,"rows_materialized":2,"renders":1}
+state save rejected: original file was not accepted
+{"label":"window-closed","evaluations":{"visible_tasks":1},"views":{"tasks":["Build a native application","Verify saved data after restart"],"draft":"","selected":0},"patches":3,"rows_materialized":2,"renders":1}
+EXIT=0

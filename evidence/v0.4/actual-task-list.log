@@ -1,0 +1,14 @@
+state load rejected: open state: No such file or directory
+video_driver=x11
+framebuffer_acceleration=0
+{"label":"window-ready","evaluations":{"visible_tasks":1},"views":{"tasks":["Build a native application","Verify saved data after restart"],"draft":"","selected":0},"patches":3,"rows_materialized":2,"renders":1}
+state_saved
+{"label":"window-closed","evaluations":{"visible_tasks":2},"views":{"tasks":["Build a native application","Verify saved data after restart","Verify native resize and persistence"],"draft":"","selected":0},"patches":41,"rows_materialized":5,"renders":41}
+EXIT=0
+state_loaded
+video_driver=x11
+framebuffer_acceleration=0
+{"label":"window-ready","evaluations":{"visible_tasks":2},"views":{"tasks":["Build a native application","Verify saved data after restart","Verify native resize and persistence"],"draft":"","selected":0},"patches":4,"rows_materialized":5,"renders":1}
+state_saved
+{"label":"window-closed","evaluations":{"visible_tasks":3},"views":{"tasks":["Verify saved data after restart","Verify native resize and persistence"],"draft":"","selected":0},"patches":5,"rows_materialized":7,"renders":4}
+EXIT=0

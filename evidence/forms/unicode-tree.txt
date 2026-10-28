@@ -1,0 +1,8 @@
+Accessibility source: at_spi
+431 frame Explicit UI / Unsaved changes
+	432 text Explicit UI / Independent fields
+	433 entry (settable) Name, Value: 文文🙂
+	434 entry (focused, settable) Project, Value: 跨端表单
+	435 text 文文🙂 / 跨端表单
+	436 button Reset both fields
+	437 text Tab switches fields · Ctrl+S saves · Ctrl+O loads

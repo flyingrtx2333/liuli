@@ -1,0 +1,9 @@
+Linux accessibility runtime rejected: ATK reports 2.56.2. This opt-in spike requires coherent ATK, AT-SPI and atk-bridge packages >= 2.62.1. For the verified amd64 cloud route, run python3 scripts/prepare-a11y-runtime.py and prepend <repo>/build/a11y-runtime/usr/lib/x86_64-linux-gnu to this process's LD_LIBRARY_PATH. Do not replace system libraries. atk-bridge has no public version query: these API checks cannot attest mixed/custom libraries. See docs/linux-accessibility-spike.md.
+exit=1
+Linux accessibility runtime rejected: ATK reports 2.56.2. This opt-in spike requires coherent ATK, AT-SPI and atk-bridge packages >= 2.62.1. For the verified amd64 cloud route, run python3 scripts/prepare-a11y-runtime.py and prepend <repo>/build/a11y-runtime/usr/lib/x86_64-linux-gnu to this process's LD_LIBRARY_PATH. Do not replace system libraries. atk-bridge has no public version query: these API checks cannot attest mixed/custom libraries. See docs/linux-accessibility-spike.md.
+exit=1
+Linux accessibility runtime rejected: AT-SPI reports 2.56.2. This opt-in spike requires coherent ATK, AT-SPI and atk-bridge packages >= 2.62.1. For the verified amd64 cloud route, run python3 scripts/prepare-a11y-runtime.py and prepend <repo>/build/a11y-runtime/usr/lib/x86_64-linux-gnu to this process's LD_LIBRARY_PATH. Do not replace system libraries. atk-bridge has no public version query: these API checks cannot attest mixed/custom libraries. See docs/linux-accessibility-spike.md.
+exit=1
+PASS supported ATK/AT-SPI versions before bus/context/worker initialization; coherent bridge remains deployment contract
+exit=0
+PASS old coherent runtime and old AT-SPI rejected; constructor rejects before bus; fixed API versions pass

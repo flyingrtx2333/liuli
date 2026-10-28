@@ -1,0 +1,71 @@
+test_declarative_action_button_binding (test_actions.ActionTests.test_declarative_action_button_binding) ... ok
+test_native_actions_snapshot_rollback_and_bounds (test_actions.ActionTests.test_native_actions_snapshot_rollback_and_bounds) ... ok
+test_rejects_malformed_actions_and_types (test_actions.ActionTests.test_rejects_malformed_actions_and_types) ... ok
+test_scripted_operators_and_legacy_optional_field (test_actions.ActionTests.test_scripted_operators_and_legacy_optional_field) ... ok
+test_worker_effects_cancellation_supersession_and_shutdown (test_async_state_store.AsyncStateStoreTests.test_worker_effects_cancellation_supersession_and_shutdown) ... ok
+test_compiler_deterministic (test_compiler.CompilerTests.test_compiler_deterministic) ... ok
+test_integer_overflow_fails_defined (test_compiler.CompilerTests.test_integer_overflow_fails_defined) ... ok
+test_invalid_unicode_metadata_rejected (test_compiler.CompilerTests.test_invalid_unicode_metadata_rejected) ... ok
+test_native_dependency_batch_virtualization_lifecycle (test_compiler.CompilerTests.test_native_dependency_batch_virtualization_lifecycle) ... ok
+test_reject_malformed_types_references_and_code (test_compiler.CompilerTests.test_reject_malformed_types_references_and_code) ... ok
+test_simultaneous_snapshot_and_safe_unicode_strings (test_compiler.CompilerTests.test_simultaneous_snapshot_and_safe_unicode_strings) ... ok
+test_unused_declarations_build_warning_free (test_compiler.CompilerTests.test_unused_declarations_build_warning_free) ... ok
+test_window_bounds (test_compiler.CompilerTests.test_window_bounds) ... ok
+test_compile_rejections (test_conditions.ConditionTests.test_compile_rejections) ... ok
+test_live_rollback_and_codec (test_conditions.ConditionTests.test_live_rollback_and_codec) ... ok
+test_scripted_ordering_and_equality (test_conditions.ConditionTests.test_scripted_ordering_and_equality) ... ok
+test_successful_boolean_actions_and_persistence (test_conditions.ConditionTests.test_successful_boolean_actions_and_persistence) ... ok
+test_actions_and_restore_respect_editor_transaction (test_host_transactions.HostTransactionTests.test_actions_and_restore_respect_editor_transaction) ... state load rejected: open state: No such file or directory
+state load rejected: single-line text rejects separators
+state_loaded
+state_saved
+state_load_stale
+state_cancelled
+state_saved
+state_saved
+state load rejected: truncated state header
+state save rejected: original file was not accepted
+state_saved
+state_loaded
+ok
+test_declared_position_text_and_actions_reach_generated_cpp (test_layout.LayoutTests.test_declared_position_text_and_actions_reach_generated_cpp) ... ok
+test_duplicate_json_keys_rejected (test_layout.LayoutTests.test_duplicate_json_keys_rejected) ... ok
+test_generated_layout_and_half_open_hit_test (test_layout.LayoutTests.test_generated_layout_and_half_open_hit_test) ... ok
+test_rejects_wrong_types_unknown_fields_and_bounds (test_layout.LayoutTests.test_rejects_wrong_types_unknown_fields_and_bounds) ... ok
+test_batch_abort_last_write_eof_and_invalid_utf8 (test_live.LiveTests.test_batch_abort_last_write_eof_and_invalid_utf8) ... ok
+test_empty_and_typed_api_headers_build (test_live.LiveTests.test_empty_and_typed_api_headers_build) ... ok
+test_error_rollback_unknown_types_and_commands (test_live.LiveTests.test_error_rollback_unknown_types_and_commands) ... ok
+test_oversized_line_recovery_and_final_line_without_newline (test_live.LiveTests.test_oversized_line_recovery_and_final_line_without_newline) ... ok
+test_persists_external_updates_batch_and_render_suppression (test_live.LiveTests.test_persists_external_updates_batch_and_render_suppression) ... ok
+test_alias_isolation_noops_and_allocation_failure_rollback (test_model_storage.ModelStorageTests.test_alias_isolation_noops_and_allocation_failure_rollback) ... ok
+test_rejects_invalid_persistence_declarations (test_persistence_schema.PersistenceSchemaTests.test_rejects_invalid_persistence_declarations) ... ok
+test_task_arrays_schema_and_atomic_restore (test_persistence_schema.PersistenceSchemaTests.test_task_arrays_schema_and_atomic_restore) ... ok
+test_unconfigured_persistence_is_empty_and_core_still_compiles (test_persistence_schema.PersistenceSchemaTests.test_unconfigured_persistence_is_empty_and_core_still_compiles) ... ok
+test_depth_bound_and_determinism (test_responsive_layout.ResponsiveLayoutTests.test_depth_bound_and_determinism) ... ok
+test_flow_resize_bounds_hit_testing_and_breakpoint (test_responsive_layout.ResponsiveLayoutTests.test_flow_resize_bounds_hit_testing_and_breakpoint) ... ok
+test_invalid_flow_constraints (test_responsive_layout.ResponsiveLayoutTests.test_invalid_flow_constraints) ... ok
+test_shapes_and_maps_utf8_with_checked_geometry (test_shaped_text.ShapedTextTests.test_shapes_and_maps_utf8_with_checked_geometry) ... ok
+test_codec_and_atomic_storage (test_state_store.StateStoreTests.test_codec_and_atomic_storage) ... ok
+test_generated_schema_restoration_is_atomic (test_state_store.StateStoreTests.test_generated_schema_restoration_is_atomic) ... ok
+test_editor_unicode_selection_and_atomic_rejection (test_text_edit.TextEditTests.test_editor_unicode_selection_and_atomic_rejection) ... ok
+test_bounded_renderer_geometry (test_text_geometry.TextGeometryTests.test_bounded_renderer_geometry) ... ok
+test_bad_arguments_fail_without_starting_sdl (test_window.WindowHostTests.test_bad_arguments_fail_without_starting_sdl) ... ok
+test_missing_opt_in_state_recovers_without_implicit_save (test_window.WindowHostTests.test_missing_opt_in_state_recovers_without_implicit_save) ... ok
+test_missing_video_driver_is_explicit_error (test_window.WindowHostTests.test_missing_video_driver_is_explicit_error) ... ok
+test_opt_in_state_load_save_roundtrip (test_window.WindowHostTests.test_opt_in_state_load_save_roundtrip) ... ok
+test_synthetic_events_through_sdl_queue (test_window.WindowHostTests.test_synthetic_events_through_sdl_queue) ... ok
+
+----------------------------------------------------------------------
+Ran 44 tests in 69.565s
+
+OK
+{"label":"initial","evaluations":{"title":1,"filtered":1,"visible":1},"views":{"counter":"Count: 0","list":["Item 00000","Item 00001","Item 00002","Item 00003","Item 00004","Item 00005","Item 00006","Item 00007","Item 00008","Item 00009","Item 00010","Item 00011"]},"patches":2,"rows_materialized":12}
+{"label":"unchanged","evaluations":{"title":1,"filtered":1,"visible":1},"views":{"counter":"Count: 0","list":["Item 00000","Item 00001","Item 00002","Item 00003","Item 00004","Item 00005","Item 00006","Item 00007","Item 00008","Item 00009","Item 00010","Item 00011"]},"patches":2,"rows_materialized":12}
+{"label":"unrelated","evaluations":{"title":1,"filtered":1,"visible":1},"views":{"counter":"Count: 0","list":["Item 00000","Item 00001","Item 00002","Item 00003","Item 00004","Item 00005","Item 00006","Item 00007","Item 00008","Item 00009","Item 00010","Item 00011"]},"patches":2,"rows_materialized":12}
+{"label":"increment","evaluations":{"title":2,"filtered":1,"visible":1},"views":{"counter":"Count: 1","list":["Item 00000","Item 00001","Item 00002","Item 00003","Item 00004","Item 00005","Item 00006","Item 00007","Item 00008","Item 00009","Item 00010","Item 00011"]},"patches":3,"rows_materialized":12}
+{"label":"batch_filter_scroll","evaluations":{"title":2,"filtered":2,"visible":2},"views":{"counter":"Count: 1","list":["Item 00299","Item 00399","Item 00499","Item 00599","Item 00699","Item 00799","Item 00899","Item 00990","Item 00991","Item 00992","Item 00993","Item 00994"]},"patches":4,"rows_materialized":24}
+{"label":"same_filter_result","evaluations":{"title":2,"filtered":3,"visible":3},"views":{"counter":"Count: 1","list":["Item 00099"]},"patches":5,"rows_materialized":25}
+{"label":"identical_filter_output","evaluations":{"title":2,"filtered":4,"visible":3},"views":{"counter":"Count: 1","list":["Item 00099"]},"patches":5,"rows_materialized":25}
+{"label":"empty_batch","evaluations":{"title":2,"filtered":4,"visible":3},"views":{"counter":"Count: 1","list":["Item 00099"]},"patches":5,"rows_materialized":25}
+{"lifecycle":{"mounts":2,"unmounts":2}}
+Built build/live/live-host (blocking stdin; quit or EOF exits).

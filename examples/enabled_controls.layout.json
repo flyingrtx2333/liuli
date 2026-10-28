@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "width": 1120,
+  "height": 840,
+  "widgets": [
+    {
+      "id": "toggle",
+      "kind": "button",
+      "rect": [
+        40,
+        40,
+        200,
+        60
+      ],
+      "text": "Toggle enabled",
+      "action": "toggle"
+    },
+    {
+      "id": "increment",
+      "kind": "button",
+      "rect": [
+        260,
+        40,
+        200,
+        60
+      ],
+      "text": "Increment",
+      "action": "increment",
+      "enabled_view": "enabled"
+    },
+    {
+      "id": "counter",
+      "kind": "text",
+      "rect": [
+        40,
+        130,
+        400,
+        60
+      ],
+      "text": "",
+      "binding": "counter"
+    }
+  ]
+}

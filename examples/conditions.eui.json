@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "states": [
+    {"id": "enabled", "type": "bool", "initial": false},
+    {"id": "count", "type": "int", "initial": 0}
+  ],
+  "derived": [
+    {"id": "ready", "type": "bool", "expr": {"op": "and", "args": [{"ref": "enabled"}, {"op": "ge", "args": [{"ref": "count"}, {"literal": 1, "type": "int"}]}]}},
+    {"id": "status", "type": "text", "expr": {"op": "if", "args": [{"ref": "ready"}, {"literal": "Ready", "type": "text"}, {"literal": "Waiting", "type": "text"}]}}
+  ],
+  "views": [{"id": "ready", "source": "ready"}, {"id": "status", "source": "status"}],
+  "transactions": [{"label": "enable", "set": {"enabled": {"literal": true, "type": "bool"}, "count": {"literal": 1, "type": "int"}}}],
+  "actions": [{"id": "toggle", "set": {"enabled": {"op": "not", "args": [{"ref": "enabled"}]}}}],
+  "persist": ["enabled", "count"]
+}

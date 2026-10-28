@@ -1,0 +1,8 @@
+test_revision_tracks_atomic_final_persistent_values (tests.test_persistence_revision.PersistenceRevisionTests.test_revision_tracks_atomic_final_persistent_values) ... ok
+test_accessibility_field_routing (tests.test_forms_host.FormsHostTests.test_accessibility_field_routing) ... ok
+test_multifield_transactions_and_persistence (tests.test_forms_host.FormsHostTests.test_multifield_transactions_and_persistence) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 12.341s
+
+OK

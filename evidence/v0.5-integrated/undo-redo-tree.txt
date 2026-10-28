@@ -1,0 +1,18 @@
+Accessibility source: at_spi
+402 frame Explicit UI / Saved
+	403 text Explicit UI / Responsive Compiled flow. Native state. Glass-inspired pixels. Count: 1
+	406 button - 1
+	407 button + 1
+	408 text Click to count
+	409 entry (focused, settable) Search items..., Value: abcdef
+	410 list Visible items
+	411 text Tab: focus   Enter: activate   Wheel: scroll   Esc: unfocus
+Accessibility source: at_spi
+402 frame Explicit UI / Saved
+	403 text Explicit UI / Responsive Compiled flow. Native state. Glass-inspired pixels. Count: 1
+	406 button - 1
+	407 button + 1
+	408 text Click to count
+	409 entry (focused, settable) Search items..., Value: abcdefbcd
+	410 list Visible items
+	411 text Tab: focus   Enter: activate   Wheel: scroll   Esc: unfocus

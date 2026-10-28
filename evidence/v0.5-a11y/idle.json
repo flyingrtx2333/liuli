@@ -1,0 +1,1 @@
+{"before": {"ticks": 25, "state": "S", "threads": 6, "rss_pages": 9525}, "after": {"ticks": 25, "state": "S", "threads": 6, "rss_pages": 9525}, "seconds": 10.000449557999673, "cpu_seconds": 0.0, "scope": "real X11 ATK-enabled process idle after independent client exits"}

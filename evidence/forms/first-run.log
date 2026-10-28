@@ -1,0 +1,7 @@
+state load rejected: open state: No such file or directory
+video_driver=x11
+framebuffer_acceleration=0
+{"label":"window-ready","evaluations":{"summary":1},"views":{"preview":"Ada / Native UI"},"patches":1,"rows_materialized":0,"renders":1}
+state_saved
+state_loaded
+{"label":"window-closed","evaluations":{"summary":9},"views":{"preview":"Lin / Glass forms"},"patches":9,"rows_materialized":0,"renders":14}

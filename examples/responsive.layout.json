@@ -1,0 +1,172 @@
+{
+  "version": 2,
+  "width": 1120,
+  "height": 840,
+  "root": {
+    "kind": "column",
+    "basis": [
+      0,
+      0
+    ],
+    "grow": 1,
+    "padding": 32,
+    "gap": 16,
+    "stack_below": 0,
+    "children": [
+      {
+        "kind": "text",
+        "id": "title",
+        "basis": [
+          0,
+          48
+        ],
+        "grow": 0,
+        "text": "Explicit UI / Responsive",
+        "binding": ""
+      },
+      {
+        "kind": "text",
+        "id": "description",
+        "basis": [
+          0,
+          32
+        ],
+        "grow": 0,
+        "text": "Compiled flow. Native state. Glass-inspired pixels.",
+        "binding": ""
+      },
+      {
+        "kind": "row",
+        "basis": [
+          0,
+          320
+        ],
+        "grow": 1,
+        "padding": 0,
+        "gap": 24,
+        "stack_below": 740,
+        "children": [
+          {
+            "kind": "column",
+            "basis": [
+              250,
+              160
+            ],
+            "grow": 0,
+            "padding": 0,
+            "gap": 12,
+            "stack_below": 0,
+            "children": [
+              {
+                "kind": "text",
+                "id": "counter",
+                "basis": [
+                  0,
+                  52
+                ],
+                "grow": 0,
+                "text": "",
+                "binding": "counter"
+              },
+              {
+                "kind": "row",
+                "basis": [
+                  0,
+                  48
+                ],
+                "grow": 0,
+                "padding": 0,
+                "gap": 12,
+                "stack_below": 0,
+                "children": [
+                  {
+                    "kind": "button",
+                    "id": "decrement",
+                    "basis": [
+                      0,
+                      48
+                    ],
+                    "grow": 1,
+                    "text": "- 1",
+                    "state": "count",
+                    "delta": -1
+                  },
+                  {
+                    "kind": "button",
+                    "id": "increment",
+                    "basis": [
+                      0,
+                      48
+                    ],
+                    "grow": 1,
+                    "text": "+ 1",
+                    "state": "count",
+                    "delta": 1
+                  }
+                ]
+              },
+              {
+                "kind": "text",
+                "id": "hint",
+                "basis": [
+                  0,
+                  32
+                ],
+                "grow": 0,
+                "text": "Click to count",
+                "binding": ""
+              }
+            ]
+          },
+          {
+            "kind": "column",
+            "basis": [
+              320,
+              180
+            ],
+            "grow": 1,
+            "padding": 0,
+            "gap": 12,
+            "stack_below": 0,
+            "children": [
+              {
+                "kind": "search",
+                "id": "search",
+                "basis": [
+                  0,
+                  52
+                ],
+                "grow": 0,
+                "text": "Search items...",
+                "state": "query"
+              },
+              {
+                "kind": "list",
+                "id": "results",
+                "basis": [
+                  0,
+                  120
+                ],
+                "grow": 1,
+                "binding": "list",
+                "state": "offset",
+                "delta": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "id": "footer",
+        "basis": [
+          0,
+          28
+        ],
+        "grow": 0,
+        "text": "Tab: focus   Enter: activate   Wheel: scroll   Esc: unfocus",
+        "binding": ""
+      }
+    ]
+  }
+}

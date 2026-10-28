@@ -1,0 +1,8 @@
+Accessibility source: at_spi
+424 frame Explicit UI / Saved
+	425 text Explicit UI / Independent fields
+	426 entry (focused, settable) Name, Value: Lin
+	427 entry (settable) Project, Value: Glass forms
+	428 text Lin / Glass forms
+	429 button Reset both fields
+	430 text Tab switches fields · Ctrl+S saves · Ctrl+O loads

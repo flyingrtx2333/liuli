@@ -1,0 +1,10 @@
+test_bad_arguments_fail_without_starting_sdl (test_window.WindowHostTests.test_bad_arguments_fail_without_starting_sdl) ... ok
+test_missing_opt_in_state_recovers_without_implicit_save (test_window.WindowHostTests.test_missing_opt_in_state_recovers_without_implicit_save) ... ok
+test_missing_video_driver_is_explicit_error (test_window.WindowHostTests.test_missing_video_driver_is_explicit_error) ... ok
+test_opt_in_state_load_save_roundtrip (test_window.WindowHostTests.test_opt_in_state_load_save_roundtrip) ... ok
+test_synthetic_events_through_sdl_queue (test_window.WindowHostTests.test_synthetic_events_through_sdl_queue) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 32.161s
+
+OK

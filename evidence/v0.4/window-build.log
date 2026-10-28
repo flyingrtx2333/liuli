@@ -1,0 +1,1 @@
+Built build/window/window-host. Requires a graphical desktop; SDL_VIDEODRIVER=dummy is test-only.

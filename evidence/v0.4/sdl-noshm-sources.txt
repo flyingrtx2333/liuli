@@ -1,0 +1,4 @@
+https://www.libsdl.org/release/SDL2-2.32.4.tar.gz
+https://deb.debian.org/debian/pool/main/libx/libx11/libx11-dev_1.8.12-1_amd64.deb
+https://deb.debian.org/debian/pool/main/x/xorgproto/x11proto-dev_2024.1-1_all.deb
+https://deb.debian.org/debian/pool/main/libx/libxext/libxext-dev_1.3.4-1+b3_amd64.deb

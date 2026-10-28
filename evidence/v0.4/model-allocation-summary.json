@@ -1,0 +1,42 @@
+{
+  "before": {
+    "changed_count": {
+      "iterations": 1000,
+      "allocations": 4000,
+      "requested_bytes": 640584000,
+      "median_elapsed_ms": 115.366
+    },
+    "unchanged_count": {
+      "iterations": 1000,
+      "allocations": 4000,
+      "requested_bytes": 640584000,
+      "median_elapsed_ms": 110.172
+    },
+    "changed_query": {
+      "iterations": 100,
+      "allocations": 2150,
+      "requested_bytes": 102669600,
+      "median_elapsed_ms": 18.0879
+    }
+  },
+  "after": {
+    "changed_count": {
+      "iterations": 1000,
+      "allocations": 2000,
+      "requested_bytes": 192000,
+      "median_elapsed_ms": 0.052548
+    },
+    "unchanged_count": {
+      "iterations": 1000,
+      "allocations": 1000,
+      "requested_bytes": 144000,
+      "median_elapsed_ms": 0.02044
+    },
+    "changed_query": {
+      "iterations": 100,
+      "allocations": 2150,
+      "requested_bytes": 54190400,
+      "median_elapsed_ms": 18.5469
+    }
+  }
+}

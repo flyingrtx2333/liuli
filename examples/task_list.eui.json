@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "states": [
+    {
+      "id": "tasks",
+      "type": "texts",
+      "initial": [
+        "Build a native application",
+        "Verify saved data after restart"
+      ]
+    },
+    {
+      "id": "draft",
+      "type": "text",
+      "initial": ""
+    },
+    {
+      "id": "selected",
+      "type": "int",
+      "initial": 0
+    },
+    {
+      "id": "offset",
+      "type": "int",
+      "initial": 0
+    }
+  ],
+  "derived": [
+    {
+      "id": "visible_tasks",
+      "type": "texts",
+      "expr": {
+        "op": "window",
+        "args": [
+          {
+            "ref": "tasks"
+          },
+          {
+            "ref": "offset"
+          },
+          {
+            "literal": 12,
+            "type": "int"
+          }
+        ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "tasks",
+      "source": "visible_tasks"
+    },
+    {
+      "id": "draft",
+      "source": "draft"
+    },
+    {
+      "id": "selected",
+      "source": "selected"
+    }
+  ],
+  "transactions": [],
+  "actions": [
+    {
+      "id": "add_task",
+      "set": {
+        "tasks": {
+          "op": "append",
+          "args": [
+            {
+              "ref": "tasks"
+            },
+            {
+              "ref": "draft"
+            }
+          ]
+        },
+        "draft": {
+          "literal": "",
+          "type": "text"
+        }
+      }
+    },
+    {
+      "id": "remove_task",
+      "set": {
+        "tasks": {
+          "op": "remove_at",
+          "args": [
+            {
+              "ref": "tasks"
+            },
+            {
+              "ref": "selected"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "persist": [
+    "tasks",
+    "draft",
+    "selected",
+    "offset"
+  ]
+}

@@ -1,0 +1,36 @@
+-- Using Linux SDL2 runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libSDL2-2.0.so.0
+-- Using Linux Pango runtime ABI fallback
+-- Using Linux Cairo runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libcairo.so.2
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /workspace/scratch/1d8b07060f6d/explicit-ui/build/a11y-integrated
+[  5%] Built target eui_model
+[ 10%] Building CXX object CMakeFiles/eui-accessibility.dir/native/linux_accessibility.cpp.o
+[ 20%] Built target eui-atspi-probe
+[ 30%] Built target eui-scripted
+[ 40%] Built target eui-live
+[ 45%] Linking CXX static library libeui-accessibility.a
+[ 45%] Built target eui-accessibility
+[ 50%] Building CXX object CMakeFiles/eui-accessibility-runtime-check.dir/tests/native/accessibility_runtime_check.cpp.o
+[ 55%] Building CXX object CMakeFiles/eui-window.dir/native/window_host.cpp.o
+[ 60%] Linking CXX executable eui-accessibility-runtime-check
+[ 60%] Built target eui-accessibility-runtime-check
+[ 65%] Building CXX object CMakeFiles/eui-accessibility-session-test.dir/tests/native/accessibility_session_test.cpp.o
+[ 70%] Linking CXX executable eui-accessibility-session-test
+[ 70%] Built target eui-accessibility-session-test
+[ 75%] Building CXX object CMakeFiles/eui-accessibility-tree-test.dir/tests/native/accessibility_tree_test.cpp.o
+[ 80%] Linking CXX executable eui-accessibility-tree-test
+[ 80%] Built target eui-accessibility-tree-test
+[ 85%] Linking CXX executable eui-window
+[100%] Built target eui-window
+Test project /workspace/scratch/1d8b07060f6d/explicit-ui/build/a11y-integrated
+    Start 1: scripted_smoke
+1/3 Test #1: scripted_smoke ...................   Passed    0.00 sec
+    Start 2: accessibility_tree
+2/3 Test #2: accessibility_tree ...............   Passed    0.01 sec
+    Start 3: window_synthetic
+3/3 Test #3: window_synthetic .................   Passed    0.83 sec
+
+100% tests passed out of 3
+
+Total Test time (real) =   0.84 sec

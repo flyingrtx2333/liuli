@@ -1,0 +1,15 @@
+{"case":"changed_count","iterations":1000,"allocations":4000,"requested_bytes":640584000,"elapsed_ms":120.749}
+{"case":"unchanged_count","iterations":1000,"allocations":4000,"requested_bytes":640584000,"elapsed_ms":113.876}
+{"case":"changed_query","iterations":100,"allocations":2150,"requested_bytes":102669600,"elapsed_ms":19.248}
+{"case":"changed_count","iterations":1000,"allocations":4000,"requested_bytes":640584000,"elapsed_ms":114.088}
+{"case":"unchanged_count","iterations":1000,"allocations":4000,"requested_bytes":640584000,"elapsed_ms":109.74}
+{"case":"changed_query","iterations":100,"allocations":2150,"requested_bytes":102669600,"elapsed_ms":17.2878}
+{"case":"changed_count","iterations":1000,"allocations":4000,"requested_bytes":640584000,"elapsed_ms":115.366}
+{"case":"unchanged_count","iterations":1000,"allocations":4000,"requested_bytes":640584000,"elapsed_ms":108.143}
+{"case":"changed_query","iterations":100,"allocations":2150,"requested_bytes":102669600,"elapsed_ms":19.5145}
+{"case":"changed_count","iterations":1000,"allocations":4000,"requested_bytes":640584000,"elapsed_ms":114.002}
+{"case":"unchanged_count","iterations":1000,"allocations":4000,"requested_bytes":640584000,"elapsed_ms":110.172}
+{"case":"changed_query","iterations":100,"allocations":2150,"requested_bytes":102669600,"elapsed_ms":18.0879}
+{"case":"changed_count","iterations":1000,"allocations":4000,"requested_bytes":640584000,"elapsed_ms":125.111}
+{"case":"unchanged_count","iterations":1000,"allocations":4000,"requested_bytes":640584000,"elapsed_ms":111.546}
+{"case":"changed_query","iterations":100,"allocations":2150,"requested_bytes":102669600,"elapsed_ms":18.0363}

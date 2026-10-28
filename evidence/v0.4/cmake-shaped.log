@@ -1,0 +1,73 @@
+-- The CXX compiler identification is GNU 14.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Python3: /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3.12 (found suitable version "3.12.14", minimum required is "3.9") found components: Interpreter
+-- Using Linux SDL2 runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libSDL2-2.0.so.0
+-- Using Linux Pango runtime ABI fallback
+-- Using Linux Cairo runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libcairo.so.2
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /workspace/scratch/1d8b07060f6d/explicit-ui/build/cmake-shaped
+[  9%] Generating generated/scripted.cpp, generated/model.h
+[ 18%] Generating generated/scripted.cpp, generated/model.h
+[ 18%] Built target eui_model
+[ 27%] Building CXX object CMakeFiles/eui-scripted.dir/generated/scripted.cpp.o
+[ 36%] Building CXX object CMakeFiles/eui-live.dir/native/live_host.cpp.o
+[ 45%] Linking CXX executable eui-scripted
+[ 45%] Built target eui-scripted
+[ 54%] Generating generated/scene.h
+[ 63%] Building CXX object CMakeFiles/eui-window.dir/native/window_host.cpp.o
+[ 72%] Linking CXX executable eui-live
+[ 72%] Built target eui-live
+[ 81%] Building CXX object CMakeFiles/eui-window.dir/native/glass_renderer.cpp.o
+[ 90%] Building CXX object CMakeFiles/eui-window.dir/native/shaped_text.cpp.o
+[100%] Linking CXX executable eui-window
+[100%] Built target eui-window
+Test project /workspace/scratch/1d8b07060f6d/explicit-ui/build/cmake-shaped
+    Start 1: scripted_smoke
+1/2 Test #1: scripted_smoke ...................   Passed    0.00 sec
+    Start 2: window_synthetic
+2/2 Test #2: window_synthetic .................***Failed    0.54 sec
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+window host: unknown view or wrong view type
+
+
+50% tests passed, 1 tests failed out of 2
+
+Total Test time (real) =   0.55 sec
+
+The following tests FAILED:
+	  2 - window_synthetic (Failed)
+Errors while running CTest

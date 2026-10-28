@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "width": 1120,
+  "height": 840,
+  "widgets": [
+    {
+      "id": "title",
+      "kind": "text",
+      "rect": [
+        108,
+        155,
+        900,
+        50
+      ],
+      "text": "Explicit UI / Native interactions",
+      "binding": ""
+    },
+    {
+      "id": "description",
+      "kind": "text",
+      "rect": [
+        108,
+        208,
+        900,
+        34
+      ],
+      "text": "Compiled layout. Native state. Glass-inspired pixels.",
+      "binding": ""
+    },
+    {
+      "id": "counter",
+      "kind": "text",
+      "rect": [
+        108,
+        285,
+        240,
+        60
+      ],
+      "text": "",
+      "binding": "counter"
+    },
+    {
+      "id": "decrement",
+      "kind": "button",
+      "rect": [
+        108,
+        365,
+        108,
+        52
+      ],
+      "text": "- 1",
+      "state": "count",
+      "delta": -1
+    },
+    {
+      "id": "increment",
+      "kind": "button",
+      "rect": [
+        232,
+        365,
+        108,
+        52
+      ],
+      "text": "+ 1",
+      "state": "count",
+      "delta": 1
+    },
+    {
+      "id": "hint",
+      "kind": "text",
+      "rect": [
+        108,
+        455,
+        250,
+        100
+      ],
+      "text": "Click to count",
+      "binding": ""
+    },
+    {
+      "id": "search",
+      "kind": "search",
+      "rect": [
+        390,
+        270,
+        638,
+        52
+      ],
+      "text": "Search items...",
+      "state": "query"
+    },
+    {
+      "id": "results",
+      "kind": "list",
+      "rect": [
+        390,
+        344,
+        638,
+        340
+      ],
+      "binding": "list",
+      "state": "offset",
+      "delta": 3
+    },
+    {
+      "id": "footer",
+      "kind": "text",
+      "rect": [
+        108,
+        705,
+        900,
+        32
+      ],
+      "text": "Tab: focus   Enter/Space: activate   Wheel: scroll   Esc: unfocus",
+      "binding": ""
+    }
+  ]
+}

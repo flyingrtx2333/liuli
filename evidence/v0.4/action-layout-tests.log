@@ -1,0 +1,26 @@
+test_declarative_action_button_binding (test_actions.ActionTests.test_declarative_action_button_binding) ... ok
+test_native_actions_snapshot_rollback_and_bounds (test_actions.ActionTests.test_native_actions_snapshot_rollback_and_bounds) ... ok
+test_rejects_malformed_actions_and_types (test_actions.ActionTests.test_rejects_malformed_actions_and_types) ... ok
+test_scripted_operators_and_legacy_optional_field (test_actions.ActionTests.test_scripted_operators_and_legacy_optional_field) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 1.637s
+
+OK
+test_declared_position_text_and_actions_reach_generated_cpp (test_layout.LayoutTests.test_declared_position_text_and_actions_reach_generated_cpp) ... ok
+test_duplicate_json_keys_rejected (test_layout.LayoutTests.test_duplicate_json_keys_rejected) ... ok
+test_generated_layout_and_half_open_hit_test (test_layout.LayoutTests.test_generated_layout_and_half_open_hit_test) ... ok
+test_rejects_wrong_types_unknown_fields_and_bounds (test_layout.LayoutTests.test_rejects_wrong_types_unknown_fields_and_bounds) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.780s
+
+OK
+test_depth_bound_and_determinism (test_responsive_layout.ResponsiveLayoutTests.test_depth_bound_and_determinism) ... ok
+test_flow_resize_bounds_hit_testing_and_breakpoint (test_responsive_layout.ResponsiveLayoutTests.test_flow_resize_bounds_hit_testing_and_breakpoint) ... ok
+test_invalid_flow_constraints (test_responsive_layout.ResponsiveLayoutTests.test_invalid_flow_constraints) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.916s
+
+OK

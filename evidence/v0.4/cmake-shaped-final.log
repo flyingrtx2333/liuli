@@ -1,0 +1,14 @@
+-- Using Linux SDL2 runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libSDL2-2.0.so.0
+-- Using Linux Pango runtime ABI fallback
+-- Using Linux Cairo runtime ABI fallback: /usr/lib/x86_64-linux-gnu/libcairo.so.2
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /workspace/scratch/1d8b07060f6d/explicit-ui/build/cmake-shaped
+[ 10%] Built target eui_model
+[ 40%] Built target eui-live
+[ 40%] Linking CXX executable eui-scripted
+[ 50%] Generating generated/scene.h
+[ 60%] Built target eui-scripted
+[ 70%] Building CXX object CMakeFiles/eui-window.dir/native/window_host.cpp.o
+[ 80%] Linking CXX executable eui-window
+[100%] Built target eui-window

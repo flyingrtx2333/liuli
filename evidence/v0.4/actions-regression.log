@@ -1,0 +1,45 @@
+test_compiler_deterministic (test_compiler.CompilerTests.test_compiler_deterministic) ... ok
+test_integer_overflow_fails_defined (test_compiler.CompilerTests.test_integer_overflow_fails_defined) ... ok
+test_invalid_unicode_metadata_rejected (test_compiler.CompilerTests.test_invalid_unicode_metadata_rejected) ... ok
+test_native_dependency_batch_virtualization_lifecycle (test_compiler.CompilerTests.test_native_dependency_batch_virtualization_lifecycle) ... ok
+test_reject_malformed_types_references_and_code (test_compiler.CompilerTests.test_reject_malformed_types_references_and_code) ... ok
+test_simultaneous_snapshot_and_safe_unicode_strings (test_compiler.CompilerTests.test_simultaneous_snapshot_and_safe_unicode_strings) ... ok
+test_unused_declarations_build_warning_free (test_compiler.CompilerTests.test_unused_declarations_build_warning_free) ... ok
+test_window_bounds (test_compiler.CompilerTests.test_window_bounds) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 4.035s
+
+OK
+test_batch_abort_last_write_eof_and_invalid_utf8 (test_live.LiveTests.test_batch_abort_last_write_eof_and_invalid_utf8) ... ok
+test_empty_and_typed_api_headers_build (test_live.LiveTests.test_empty_and_typed_api_headers_build) ... ok
+test_error_rollback_unknown_types_and_commands (test_live.LiveTests.test_error_rollback_unknown_types_and_commands) ... ok
+test_oversized_line_recovery_and_final_line_without_newline (test_live.LiveTests.test_oversized_line_recovery_and_final_line_without_newline) ... ok
+test_persists_external_updates_batch_and_render_suppression (test_live.LiveTests.test_persists_external_updates_batch_and_render_suppression) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 4.330s
+
+OK
+test_alias_isolation_noops_and_allocation_failure_rollback (test_model_storage.ModelStorageTests.test_alias_isolation_noops_and_allocation_failure_rollback) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.669s
+
+OK
+test_native_actions_snapshot_rollback_and_bounds (test_actions.ActionTests.test_native_actions_snapshot_rollback_and_bounds) ... ok
+test_rejects_malformed_actions_and_types (test_actions.ActionTests.test_rejects_malformed_actions_and_types) ... ok
+test_scripted_operators_and_legacy_optional_field (test_actions.ActionTests.test_scripted_operators_and_legacy_optional_field) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 1.205s
+
+OK
+test_native_actions_snapshot_rollback_and_bounds (test_actions.ActionTests.test_native_actions_snapshot_rollback_and_bounds) ... ok
+test_rejects_malformed_actions_and_types (test_actions.ActionTests.test_rejects_malformed_actions_and_types) ... ok
+test_scripted_operators_and_legacy_optional_field (test_actions.ActionTests.test_scripted_operators_and_legacy_optional_field) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 1.183s
+
+OK

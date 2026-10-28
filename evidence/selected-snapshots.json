@@ -1,0 +1,56 @@
+[
+  {
+    "label": "initial",
+    "evaluations": {
+      "title": 1,
+      "filtered": 1,
+      "visible": 1
+    },
+    "views": {
+      "counter": "Count: 0",
+      "list": [
+        "Item 00000",
+        "Item 00001",
+        "Item 00002",
+        "Item 00003",
+        "Item 00004",
+        "Item 00005",
+        "Item 00006",
+        "Item 00007",
+        "Item 00008",
+        "Item 00009",
+        "Item 00010",
+        "Item 00011"
+      ]
+    },
+    "patches": 2,
+    "rows_materialized": 12
+  },
+  {
+    "label": "batch_filter_scroll",
+    "evaluations": {
+      "title": 2,
+      "filtered": 2,
+      "visible": 2
+    },
+    "views": {
+      "counter": "Count: 1",
+      "list": [
+        "Item 00299",
+        "Item 00399",
+        "Item 00499",
+        "Item 00599",
+        "Item 00699",
+        "Item 00799",
+        "Item 00899",
+        "Item 00990",
+        "Item 00991",
+        "Item 00992",
+        "Item 00993",
+        "Item 00994"
+      ]
+    },
+    "patches": 4,
+    "rows_materialized": 24
+  }
+]

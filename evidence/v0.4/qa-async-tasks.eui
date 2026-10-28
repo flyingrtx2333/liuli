@@ -1,0 +1,17 @@
+EUISTATE 2
+T 5 0
+draft
+I 6 1
+offset0
+I 8 1
+selected0
+A 5 94
+tasks3
+31
+Verify saved data after restart
+25
+Async close-save verified
+24
+Immediate close survives
+
+END

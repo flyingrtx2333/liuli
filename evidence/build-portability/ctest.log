@@ -1,0 +1,9 @@
+Test project /workspace/scratch/1d8b07060f6d/explicit-ui/build/cmake
+    Start 1: scripted_smoke
+1/2 Test #1: scripted_smoke ...................   Passed    0.00 sec
+    Start 2: window_synthetic
+2/2 Test #2: window_synthetic .................   Passed    0.64 sec
+
+100% tests passed out of 2
+
+Total Test time (real) =   0.64 sec

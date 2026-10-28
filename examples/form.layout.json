@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "width": 760,
+  "height": 520,
+  "root": {
+    "kind": "column",
+    "basis": [
+      0,
+      0
+    ],
+    "grow": 1,
+    "padding": 48,
+    "gap": 18,
+    "stack_below": 0,
+    "children": [
+      {
+        "id": "title",
+        "kind": "text",
+        "basis": [
+          0,
+          52
+        ],
+        "grow": 0,
+        "text": "Explicit UI / Independent fields",
+        "binding": ""
+      },
+      {
+        "id": "name",
+        "kind": "input",
+        "basis": [
+          0,
+          52
+        ],
+        "grow": 0,
+        "text": "Name",
+        "state": "name"
+      },
+      {
+        "id": "project",
+        "kind": "input",
+        "basis": [
+          0,
+          52
+        ],
+        "grow": 0,
+        "text": "Project",
+        "state": "project"
+      },
+      {
+        "id": "preview",
+        "kind": "text",
+        "basis": [
+          0,
+          52
+        ],
+        "grow": 0,
+        "text": "",
+        "binding": "preview"
+      },
+      {
+        "id": "reset",
+        "kind": "button",
+        "basis": [
+          0,
+          52
+        ],
+        "grow": 0,
+        "text": "Reset both fields",
+        "action": "reset"
+      },
+      {
+        "id": "help",
+        "kind": "text",
+        "basis": [
+          0,
+          52
+        ],
+        "grow": 0,
+        "text": "Tab switches fields · Ctrl+S saves · Ctrl+O loads",
+        "binding": ""
+      }
+    ]
+  }
+}

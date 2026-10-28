@@ -1,0 +1,24 @@
+
+xwininfo: Window id: 0x1c00002 "Explicit UI / native interaction"
+
+  Absolute upper-left X:  219
+  Absolute upper-left Y:  164
+  Relative upper-left X:  4
+  Relative upper-left Y:  32
+  Width: 488
+  Height: 840
+  Depth: 24
+  Visual: 0x22
+  Visual Class: DirectColor
+  Border width: 0
+  Class: InputOutput
+  Colormap: 0x1c00001 (installed)
+  Bit Gravity State: ForgetGravity
+  Window Gravity State: NorthWestGravity
+  Backing Store State: NotUseful
+  Save Under State: no
+  Map State: IsViewable
+  Override Redirect State: no
+  Corners:  +219+164  -657+164  -657-20  +219-20
+  -geometry 488x840+215-16
+

@@ -1,0 +1,17 @@
+{
+  "pid": 149,
+  "observation_seconds": 2,
+  "clock_ticks_per_second": 100,
+  "before": {
+    "cpu_ticks": 20,
+    "vm_rss": "20112 kB",
+    "vm_hwm": "35960 kB"
+  },
+  "after": {
+    "cpu_ticks": 20,
+    "vm_rss": "20112 kB",
+    "vm_hwm": "35960 kB"
+  },
+  "cpu_ticks_delta": 0,
+  "limits": "One 2-second idle Linux X11 cloud-window sample; not energy or battery measurement."
+}

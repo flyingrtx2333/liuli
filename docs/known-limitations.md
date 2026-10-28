@@ -1,0 +1,14 @@
+# Known limits and open investigations
+
+This is an experimental native framework checkpoint, not full Electron parity.
+
+- Linux cloud X11 is the only actually executed platform. Windows dependency/source transfer remains blocked; macOS has not been built or run. CMake files are preparation, not platform proof.
+- Existing HTML/CSS/JS/DOM/Node applications are not drop-in compatible. The target is a native typed alternative with explicit migration, not a browser clone.
+- The cloud system SDL MIT-SHM route failed independently of application logic. The documented process-local official no-SHM SDL build is the verified route here, not a global server fix.
+- The system ATK bridge had a confirmed upstream cache-cleanup defect. Accessibility is opt-in, uses the documented coherent fixed2.62.1 trio, and owns the default GLib context exclusively. The version guard cannot attest arbitrary mixed libraries. It is not a general GTK/GIO embedding contract.
+- Programmatic AT-SPI discovery, actions, text and events are verified. Bounded Pango text geometry/granularity is now implemented and tested; full geometry semantics, Orca navigation and audible speech are not certified. Orca dependencies were prepared separately, but an isolated session could not be executed in the available command environment; no global accessibility settings were changed.
+- A separate development demo produced one close-time X11 BadWindow/X_SendEvent error. Three exact mouse-close repetitions and one main-baseline comparison subsequently exited0. An instrumented successful run identified a matching wakeup-event request as a candidate, not a proven cause. 100 fresh protocol-close runs passed but are not exact mouse-close equivalents. It is **not marked fixed**; successful checkpoint close tests are not exhaustive shutdown-path proof.
+- Native grapheme/pointer/undo support does not establish actual system IME, extended composition, multiline input, all bidi affinity semantics or HiDPI correctness.
+- Buttons controlled by enabled_view, bounded accessibility geometry and up to16 independent single-line inputs are implemented. Automated and actual desktop coverage must be distinguished using evidence/v0.6-integrated; not every declaration combination has native desktop proof.
+- CPU rendering, immutable model buffers and short idle observations do not prove full-app resource/energy superiority. Conditional non-scalar results and filtering can allocate/copy. Compare only matched workloads and recorded binaries.
+- Persistent writes are bounded and atomic on tested POSIX rename semantics, not a power-loss durability or concurrent-writer protocol. Windows atomic-save backend is still unsupported. General unsaved-change prompts, native file dialogs, multiwindow, networking/media and distribution remain incomplete.

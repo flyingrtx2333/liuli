@@ -1,0 +1,2 @@
+PASS 3 same-process bridge init/teardown cycles; duplicate constructor rejection; malformed snapshot rejection
+session_exit=0

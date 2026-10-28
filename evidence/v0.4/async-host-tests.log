@@ -1,0 +1,18 @@
+test_actions_and_restore_respect_editor_transaction (test_host_transactions.HostTransactionTests.test_actions_and_restore_respect_editor_transaction) ... state load rejected: open state: No such file or directory
+state load rejected: single-line text rejects separators
+state_loaded
+state_saved
+state_load_stale
+state_cancelled
+state_saved
+state_saved
+state load rejected: truncated state header
+state save rejected: original file was not accepted
+state_saved
+state_loaded
+ok
+
+----------------------------------------------------------------------
+Ran 1 test in 6.633s
+
+OK

@@ -1,0 +1,6 @@
+SDL=2.32.4
+driver=offscreen limits=0 window=1120x840 clip=0,0,1120,840
+presented
+event=10 dimensions=0x0
+event=12 dimensions=0x0
+event=1 dimensions=0x0

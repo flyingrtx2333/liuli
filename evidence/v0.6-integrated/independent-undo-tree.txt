@@ -1,0 +1,8 @@
+Accessibility source: at_spi
+488 frame Explicit UI / Unsaved changes
+	489 text Explicit UI / Independent fields
+	490 entry (focused, settable) Name, Value: Ada
+	491 entry (settable) Project, Value: 跨端表单
+	492 text Ada / 跨端表单
+	493 button Reset both fields
+	494 text Tab switches fields · Ctrl+S saves · Ctrl+O loads
