@@ -1,6 +1,8 @@
-# Explicit UI v0.6 — experimental native reactive compiler
+# 琉璃（Liuli）v0.6 — experimental native reactive compiler
 
-**Provisional name. This is a working, small compiler experiment, not an Electron replacement.**
+**琉璃（Liuli）is an experimental native UI framework/compiler, not a completed Electron replacement.**
+Earlier evidence, example titles, source paths and internal `eui` identifiers retain
+the development name **Explicit UI**; this naming update does not rename APIs or code.
 The initial target is predictable typed state propagation with a bounded list view, before committing to a graphics/platform stack. Authoring syntax prioritizes explicit machine-checkable structure over brevity.
 
 The current tree adds responsive flow layout, immutable shared model storage, compiled actions, strict booleans/lazy conditionals, Pango grapheme editing with pointer selection/undo, opt-in typed persistence and an experimental Linux ATK bridge. See `docs/electron-replacement.md` for acceptance gates. Automated checks and actual desktop checks are separate: `evidence/v0.4/` records diagnosis attempts and final Linux acceptance. The v0.4 source-frozen aggregate passed39 tests. The merged v0.5 checkpoint passed43 Python tests and3 native CTests, plus real X11/AT-SPI editing, events, status-name and close tests; see `evidence/v0.5-integrated/`. This is a verified Linux slice, not full Electron or three-platform parity. Earlier v0.2/v0.3 memory measurements apply only to their recorded binaries.
@@ -8,12 +10,28 @@ The current tree adds responsive flow layout, immutable shared model storage, co
 
 The v0.6 source adds bounded multi-input forms, independent/mirrored editor state,
 strict button-enabled bindings, text geometry and persistence revisions independent
-of visible view changes. Source commit `3007dde` passed56 Python tests and2
-applicable custom-form CTests. See `evidence/v0.6-integrated/` for exact final desktop
+of visible view changes. Source commit `3007dde` passed 56 Python tests and 2
+applicable custom-form CTests. A later tests-only input-rejection audit, included
+in source checkpoint `6766ddc`, passed **57 tests** and the complete check script;
+production code was unchanged. See [audit evidence](evidence/input-rejection/README.md)
+and `evidence/v0.6-integrated/` for exact final desktop
 coverage and limitations; older branch screenshots are not proof of this binary.
 Qt Widgets was evaluated separately but is not included in the default backend:
 rejected native edits can lose redo history, so a model prepare API alone does not
 establish equivalent transactional editing.
+
+## Repository and publication status
+
+The public source repository is [flyingrtx2333/liuli](https://github.com/flyingrtx2333/liuli).
+The initial verified [source snapshot](https://github.com/flyingrtx2333/liuli/commit/6bb76c55d363c70073242e170ec0f26881efa653)
+preserves all 428 tracked files and modes from local checkpoint `6766ddc`; the
+18 local development commits were not replayed into that initial remote history.
+
+- **License: not selected yet.** No open-source license file has been added.
+- No hosted CI workflow is configured; recorded local tests are not a GitHub CI pass.
+- No app release, deployment or saved Codex environment has been provisioned.
+- Linux evidence does not establish Windows/macOS, real system IME or complete
+  screen-reader acceptance; see [remaining limits](docs/known-limitations.md).
 
 ## Run in the cloud workspace
 
@@ -29,7 +47,7 @@ c++ -std=c++17 -O2 -Wall -Wextra -Wpedantic -Werror build/demo.cpp -o build/demo
 ./build/demo
 ```
 
-`build/metrics.jsonl` holds actual native executable output. `CXX=clang++ ./scripts/check.sh` selects another compiler if installed. The default code and shell workflow were tested in the existing Linux cloud workspace, not the user's computer. No remote repository, deployment, or saved Codex environment was created.
+`build/metrics.jsonl` holds actual native executable output. `CXX=clang++ ./scripts/check.sh` selects another compiler if installed. The default code and shell workflow were tested in the existing Linux cloud workspace, not the user's computer. The public source snapshot is linked above; no deployment or saved Codex environment was created.
 
 A minimal **unbuilt** container recipe is supplied:
 
